@@ -11,6 +11,7 @@
     - [Machine Learning basics](#machine-learning-basics)
     - [Machine learning courses](#machine-learning-courses)
   - [Databases](#databases)
+    - [Interactive SQL tutorials](#interactive-sql-tutorials)
 
 ## Data Analysis
 
@@ -194,3 +195,10 @@
 ## Databases
 
 - [x] [BroCode - MySQL: JOINS are easy (INNER, LEFT, RIGHT)](https://www.youtube.com/watch?v=G3lJAxg1cy8)
+- [x] [JomaClass - SQL Joins: Difference Between Inner/Left/Right/Outer Joins](https://www.youtube.com/watch?v=zGSv0VaOtR0)
+
+### Interactive SQL tutorials
+
+- [SQLBolt](https://sqlbolt.com/)
+- [SQLZOO](https://sqlzoo.net/)
+- [Spathon - Visual JOIN - Understand how joins work by interacting and see it visually](https://joins.spathon.com/)
