@@ -5,9 +5,16 @@
   - [x] 2. How to Become a Data Analyst in 2023 (Completely FREE!) (638K views, 7 months ago, 13:59)
   - [x] 3. SQL Basics Tutorial For Beginners | Installing SQL Server Management Studio and Create Tables | 1/4 (893K views, 3 years ago, 9:37)
   - [x] 4. SQL Basics Tutorial For Beginners | Select + From Statements | 2/4 (299K views, 3 years ago, 6:14)
+       > <> is the **not equal** operator.
+       >
+       > My comment: **SELECT** is a **projection** operation. It selects the columns that we want to see in the result.
   - [x] 5. SQL Basics Tutorial For Beginners | Where Statement | 3/4 (204K views, 3 years ago, 7:58)
   - [x] 6. SQL Basics Tutorial For Beginners | Group By + Order By Statements | 4/4 (194K views, 3 years ago, 8:09)
+       > **COUNT()** is not a (regular) column (from a table). It's a **derived** column/field (and an aggregate function BTW). That's why we don't need to include it in the GROUP BY clause.
+       >
+       > **ORDER BY** can be used not just on one column, but on multiple columns as well. In that case, the order of columns in the ORDER BY clause matters.
   - [x] 7. Intermediate SQL Tutorial | Inner/Outer Joins | Use Cases (315K views, 3 years ago, 15:53)
+       > For inner join, it's not important which ID column we use in the SELECT clause, because they are the same. But for outer join, it's important to use the ID column from the table that we want to keep all the rows from.
   - [x] 8. Intermediate SQL Tutorial | Unions | Union Operator (156K views, 3 years ago, 5:25)
   - [x] 9. Intermediate SQL Tutorial | Case Statement | Use Cases (185K views, 3 years ago, 7:26)
   - [ ] 10. Intermediate SQL Tutorial | Having Clause (102K views, 3 years ago, 3:31)
