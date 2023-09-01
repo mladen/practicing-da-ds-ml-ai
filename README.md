@@ -63,6 +63,8 @@
     > LEFT OUTER JOIN EmployeeSalary ON EmployeeDemographics.EmployeeID = EmployeeSalary.EmployeeID
     > ```
     >
+    > This takes everything from the "left" table (EmployeeDemographics) and matches it with the "right" table (EmployeeSalary). If there is no match, it will still take the row from the "left" table, but it will fill the columns from the "right" table with NULLs.
+    >
     > My comment (about emulating FULL OUTER JOIN in MySQL)
     >
     > ```
