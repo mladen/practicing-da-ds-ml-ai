@@ -80,6 +80,52 @@
     > ```
 
   - [x] 8. Intermediate SQL Tutorial | Unions | Union Operator (156K views, 3 years ago, 5:25)
+
+    > Check out the previous example for FULL OUTER JOIN emulation in MySQL.
+    >
+    > JOIN combines both tables based on common column(s) (in our last video that column was the EmployeeID which we had in both tables), while UNION combines both tables based on common rows.
+    >
+    > My comments:
+    >
+    > - JOIN combines both tables horizontally, while UNION combines both tables vertically. In other words, JOIN puts both tables side by side, while UNION puts both tables on top of each other (below each other).
+    > - Also, UNION removes the duplicates, while UNION ALL keeps the duplicates.
+
+    > My comment (about UNION and UNION ALL):
+    >
+    > ```
+    > SELECT *
+    > FROM EmployeeDemographics
+    > UNION
+    > SELECT *
+    > FROM EmployeeSalary;
+    >
+    > SELECT *
+    > FROM EmployeeDemographics
+    > UNION ALL
+    > SELECT *
+    > FROM EmployeeSalary;
+    > ```
+    >
+    > The first query will return 5 rows, while the second query will return 6 rows (because there is one duplicate row in the EmployeeSalary table).
+
+    > My comment (about the example in the previous video, about FULL JOIN done using UNION):
+    >
+    > Even though it looks as though the results is horizontal, it's actually vertical. How?
+    > The first query returns 5 rows, while the second query returns 4 rows.
+    > So the result of the UNION is 9 rows (4 rows are placed **below** first 5 rows and then), which is the same as the result of the FULL JOIN.
+
+    > My comment (about selecting columns in UNION):
+    >
+    > ```
+    > SELECT EmployeeID, FirstName, Age
+    > FROM EmployeeDemographics
+    > UNION
+    > SELECT EmployeeID, JobTitle, Salary
+    > FROM EmployeeSalary
+    > ```
+    >
+    > If we select columns like this, we will not get the desired result. Why? Because the columns in the first query are different than the columns in the second query. So we need to select the same number of columns in both queries, and the columns need to be of the same type (or at least compatible types).
+
   - [x] 9. Intermediate SQL Tutorial | Case Statement | Use Cases (185K views, 3 years ago, 7:26)
   - [ ] 10. Intermediate SQL Tutorial | Having Clause (102K views, 3 years ago, 3:31)
   - [ ] 11. Intermediate SQL Tutorial | Updating/Deleting Data (86K views, 3 years ago, 4:37)
