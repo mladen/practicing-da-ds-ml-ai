@@ -127,6 +127,42 @@
     > If we select columns like this, we will not get the desired result. Why? Because the columns in the first query are different than the columns in the second query. So we need to select the same number of columns in both queries, and the columns need to be of the same type (or at least compatible types).
 
   - [x] 9. Intermediate SQL Tutorial | Case Statement | Use Cases (185K views, 3 years ago, 7:26)
+
+    > Case statement allows us to specify a condition and then also specify what we want returned (a result) if that condition is met.
+    > (Case statement allows us to create a new column based on the values of other columns.)
+    >
+    > We can put multiple WHEN statements in the CASE statement.
+    > Example:
+    >
+    > ```
+    > SELECT FirstName, LastName, Age,
+    > CASE
+    > WHEN Age < 18 THEN 'Minor'
+    > WHEN Age >= 18 AND Age <= 65 THEN 'Adult'
+    > ELSE 'Senior'
+    > END AS 'AgeGroup'
+    > FROM EmployeeDemographics;
+    > ```
+    >
+    > Something to note is that the CASE statement is evaluated in order. So if the first WHEN statement is true, then it will return that result and not check the other WHEN statements.
+
+    > My comment:
+    >
+    > So if we have multiple WHEN statements, we need to make sure that the most specific WHEN statement is first, and the most general WHEN statement is last.
+    > Example:
+    >
+    > ```
+    > SELECT FirstName, LastName, Age,
+    > CASE
+    > 	WHEN Age > 30 THEN 'Old'
+    > 	WHEN Age = 38 THEN 'Stanley' # Previous WHEN statement is true, so this one is not checked. So this one is never true.
+    > 	ELSE 'Baby'                  # Solution: change the order of WHEN statements.
+    > END
+    > FROM EmployeeDemographics
+    > WHERE Age is NOT NULL
+    > ORDER BY Age
+    > ```
+
   - [ ] 10. Intermediate SQL Tutorial | Having Clause (102K views, 3 years ago, 3:31)
   - [ ] 11. Intermediate SQL Tutorial | Updating/Deleting Data (86K views, 3 years ago, 4:37)
   - [ ] 12. Intermediate SQL Tutorial | Aliasing (85K views, 3 years ago, 6:12)
