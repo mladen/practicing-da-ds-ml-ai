@@ -163,6 +163,20 @@
     > ORDER BY Age
     > ```
 
+    > Another example (about using CASE statement with JOIN):
+    >
+    > ```
+    > SELECT *,
+    > CASE
+    > 	WHEN JobTitle = 'Salesman' THEN Salary + (Salary * .10)
+    > 	WHEN JobTitle = 'Accountant' THEN Salary + (Salary * .05)
+    > 	WHEN JobTitle = 'HR' THEN Salary + (Salary * .000001)
+    > END AS 'Salary after raise'
+    > FROM EmployeeDemographics ed
+    > JOIN EmployeeSalary es
+    > ON ed.EmployeeID = es.EmployeeID
+    > ```
+
   - [ ] 10. Intermediate SQL Tutorial | Having Clause (102K views, 3 years ago, 3:31)
   - [ ] 11. Intermediate SQL Tutorial | Updating/Deleting Data (86K views, 3 years ago, 4:37)
   - [ ] 12. Intermediate SQL Tutorial | Aliasing (85K views, 3 years ago, 6:12)
