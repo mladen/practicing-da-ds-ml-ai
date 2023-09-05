@@ -177,7 +177,59 @@
     > ON ed.EmployeeID = es.EmployeeID
     > ```
 
-  - [ ] 10. Intermediate SQL Tutorial | Having Clause (102K views, 3 years ago, 3:31)
+  - [x] 10. Intermediate SQL Tutorial | Having Clause (102K views, 3 years ago, 3:31)
+
+    > The HAVING clause is used to filter the results of an aggregate function.
+    > Example:
+    >
+    > ```
+    > SELECT JobTitle, COUNT(JobTitle)
+    > FROM EmployeeDemographics ed
+    > JOIN EmployeeSalary es
+    > ON ed.EmployeeID = es.EmployeeID
+    > GROUP BY JobTitle
+    > HAVING COUNT(JobTitle) > 1 # This cannot be placed above GROUP BY.
+    >                            # It has to be placed below GROUP BY because it's an aggregate function.
+    > ```
+
+    > The SQL query components need to be in a specific order due to the way SQL engines parse and execute queries. The SQL standard defines a particular sequence in which the clauses should appear in a SELECT statement. Here is the typical order:
+
+    > Why does HAVING clause have to go below GROUP BY clause?
+    >
+    > The SQL query components need to be in a specific order due to the way SQL engines parse and execute queries. The SQL standard defines a particular sequence in which the clauses should appear in a SELECT statement. Here is the typical order:
+    >
+    > ```
+    > 1. SELECT
+    > 2. FROM
+    > 3. JOIN
+    > 4. WHERE
+    > 5. GROUP BY
+    > 6. HAVING
+    > 7. ORDER BY
+    > ```
+    >
+    > Here's why each step comes where it does:
+    >
+    > ```
+    > 1. SELECT: Specifies the columns you want.
+    > 2. FROM: Specifies the tables from which to select or delete or the tables to update.
+    > 3. JOIN: Combines rows from two or more tables based on a related column between them.
+    > 4. WHERE: Filters records before any groupings are made.
+    > 5. GROUP BY: Groups records after the WHERE clause has been applied. The grouping is done on the basis of columns. Aggregate functions (like COUNT, AVG, MAX, etc.) then operate on these groups.
+    > 6. HAVING: Filters records after the GROUP BY clause has been applied.
+    > 7. ORDER BY: Sorts the records, but does this last, after all filtering and grouping have been done.
+    > ```
+
+    > My comment (a quick recap) of the difference between WHERE and HAVING:
+    >
+    > - WHERE filters records before any groupings are made.
+    > - HAVING filters records after the GROUP BY clause has been applied.
+
+    > My comment about aggregate functions vs. GROUP BY:
+    >
+    > - Aggregate functions (e.g., COUNT, SUM, AVG, MIN, MAX): Perform calculations on a set of values and return a single value.
+    > - GROUP BY clause: Groups rows that have the same values in specified columns into summary rows.
+
   - [ ] 11. Intermediate SQL Tutorial | Updating/Deleting Data (86K views, 3 years ago, 4:37)
   - [ ] 12. Intermediate SQL Tutorial | Aliasing (85K views, 3 years ago, 6:12)
   - [ ] 13. Intermediate SQL Tutorial | Partition By (163K views, 2 years ago, 4:14)
