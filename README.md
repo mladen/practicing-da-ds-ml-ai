@@ -230,7 +230,33 @@
     > - Aggregate functions (e.g., COUNT, SUM, AVG, MIN, MAX): Perform calculations on a set of values and return a single value.
     > - GROUP BY clause: Groups rows that have the same values in specified columns into summary rows.
 
-  - [ ] 11. Intermediate SQL Tutorial | Updating/Deleting Data (86K views, 3 years ago, 4:37)
+  - [x] 11. Intermediate SQL Tutorial | Updating/Deleting Data (86K views, 3 years ago, 4:37)
+
+    > The difference between INSERT and UPDATE is that INSERT adds a new row to a table, while UPDATE modifies existing rows in a table.
+
+    > Example:
+    >
+    > ```
+    > UPDATE EmployeeDemographics
+    > SET Age = 31, Gender = 'Female'
+    > WHERE EmployeeID = 1012
+    > ```
+
+    > **Good practice**, before DELETE, is to use SELECT to see what we are going to delete.
+    >
+    > ```
+    > SELECT * FROM EmployeeDemographics
+    > WHERE EmployeeID  = 1005
+    > ```
+
+    > DELETE statement is used to delete rows from a table.
+    > Example:
+    >
+    > ```
+    > DELETE FROM EmployeeDemographics
+    > WHERE EmployeeID  = 1005
+    > ```
+
   - [ ] 12. Intermediate SQL Tutorial | Aliasing (85K views, 3 years ago, 6:12)
   - [ ] 13. Intermediate SQL Tutorial | Partition By (163K views, 2 years ago, 4:14)
   - [ ] 14. Advanced SQL Tutorial | CTE (Common Table Expression) (214K views, 2 years ago, 3:44)
