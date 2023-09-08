@@ -257,7 +257,63 @@
     > WHERE EmployeeID  = 1005
     > ```
 
-  - [ ] 12. Intermediate SQL Tutorial | Aliasing (85K views, 3 years ago, 6:12)
+  - [x] 12. Intermediate SQL Tutorial | Aliasing (85K views, 3 years ago, 6:12)
+
+    ````
+    Useful hint for writing SQL statements:
+    When writing the SQL statement, first write the FROM clause with an alias. Then, when writing the SELECT statement, use the alias to refer to the table - which will give us a dropdown list of all the columns in that table.```
+    ````
+
+    > Now, continuing with the lecture...
+
+    > Aliasing is used to give a table, or a column in a table, a temporary name.
+
+    > My example:
+    >
+    > ```
+    > SELECT ed.EmployeeID, ed.FirstName, ed.LastName, es.Salary
+    > FROM EmployeeDemographics ed
+    > JOIN EmployeeSalary es
+    > ON ed.EmployeeID = es.EmployeeID
+    > ```
+
+    > Another example:
+    >
+    > ```
+    > SELECT FirstName AS fn
+    > FROM EmployeeDemographics AS ed
+    > ```
+    >
+    > is the same as:
+    >
+    > ```
+    > SELECT FirstName fn
+    > FROM EmployeeDemographics
+    > ```
+
+    > Another example:
+    >
+    > ```
+    > SELECT CONCAT(FirstName, ' ', LastName) AS 'Full Name'
+    > FROM EmployeeDemographics
+    > ```
+
+    > Another time we'll use aliasing in the SELECT statement is when we want to use an aggregate function.
+    > Example:
+    >
+    > ```
+    > SELECT AVG(Age) AS 'Average Age'
+    > FROM EmployeeDemographics
+    > ```
+
+    > Untill now, we used aliasing for **column** names. But we can also use aliasing for **table** names.
+    > Example:
+    >
+    > ```
+    > SELECT Demographics.EmployeeID
+    > FROM EmployeeDemographics Demographics
+    > ```
+
   - [ ] 13. Intermediate SQL Tutorial | Partition By (163K views, 2 years ago, 4:14)
   - [ ] 14. Advanced SQL Tutorial | CTE (Common Table Expression) (214K views, 2 years ago, 3:44)
   - [ ] 15. Advanced SQL Tutorial | Temp Tables (158K views, 2 years ago, 10:19)
