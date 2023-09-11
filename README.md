@@ -314,64 +314,105 @@
     > FROM EmployeeDemographics Demographics
     > ```
 
-  - [ ] 13. Intermediate SQL Tutorial | Partition By (163K views, 2 years ago, 4:14)
-  - [ ] 14. Advanced SQL Tutorial | CTE (Common Table Expression) (214K views, 2 years ago, 3:44)
-  - [ ] 15. Advanced SQL Tutorial | Temp Tables (158K views, 2 years ago, 10:19)
-  - [ ] 16. Advanced SQL Tutorial | String Functions + Use Cases (105K views, 2 years ago, 13:49)
-  - [ ] 17. Advanced SQL Tutorial | Stored Procedures + Use Cases (244K views, 2 years ago, 6:15)
-  - [ ] 18. Advanced SQL Tutorial | Subqueries (233K views, 2 years ago, 8:37)
-  - [ ] 19. Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4 (1.3M views, 2 years ago, 1:17:09)
-  - [ ] 20. Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4 (281K views, 2 years ago, 54:44)
-  - [ ] 21. Pivot Tables in Excel | Excel Tutorials for Beginners (333K views, 1 year ago, 17:35)
-  - [ ] 22. Formulas in Excel | Excel Tutorials for Beginners (160K views, 1 year ago, 33:54)
-  - [ ] 23. XLOOKUP in Excel | Excel Tutorials for Beginners (98K views, 1 year ago, 18:47)
-  - [ ] 24. Conditional Formatting in Excel | Excel Tutorials for Beginners (81K views, 1 year ago, 20:59)
-  - [ ] 25. Charts in Excel | Excel Tutorials for Beginners (60K views, 1 year ago, 15:11)
-  - [ ] 26. Cleaning Data in Excel | Excel Tutorials for Beginners (280K views, 1 year ago, 21:04)
-  - [ ] 27. Full Project in Excel | Excel Tutorials for Beginners (417K views, 1 year ago, 40:50)
-  - [ ] 28. How to Install Tableau and Create First Visualization | Tableau Tutorials for Beginners (402K views, 1 year ago, 17:04)
-  - [ ] 29. How to use Calculated Fields and Bins in Tableau | Tableau Tutorials for Beginners (118K views, 1 year ago, 6:25)
-  - [ ] 30. How to Create Visualizations in Tableau | Tableau Tutorials for Beginners (95K views, 1 year ago, 14:05)
-  - [ ] 31. How to use Joins in Tableau | Tableau Tutorials for Beginners (69K views, 1 year ago, 14:29)
-  - [ ] 32. Full Beginner Project in Tableau | Tableau Tutorials for Beginners (154K views, 1 year ago, 44:18)
-  - [ ] 33. How to Install Power BI | Building First Visualization | Microsoft Power BI for Beginners (155K views, 1 year ago, 12:50)
-  - [ ] 34. How to use Power Query in Power BI | Microsoft Power BI for Beginners (107K views, 1 year ago, 13:07)
-  - [ ] 35. How to Create and Manage Relationships in Power BI | Microsoft Power BI for Beginners (74K views, 1 year ago, 8:36)
-  - [ ] 36. How to use DAX in Power BI | Microsoft Power BI for Beginners (62K views, 1 year ago, 15:44)
-  - [ ] 37. How to use Drill Down in Power BI | Microsoft Power BI for Beginners (61K views, 1 year ago, 6:02)
-  - [ ] 38. How to use Conditional Formatting in Power BI | Microsoft Power BI for Beginners (49K views, 1 year ago, 9:53)
-  - [ ] 39. How to use Bins and Lists in Power BI | Microsoft Power BI for Beginners (32K views, 11 months ago, 9:31)
-  - [ ] 40. Popular Visualizations in Power BI | Microsoft Power BI for Beginners (35K views, 11 months ago, 14:14)
-  - [ ] 41. Full Power BI Guided Project | Microsoft Power BI for Beginners (186K views, 11 months ago, 42:37)
-  - [ ] 42. Installing Jupyter Notebooks/Anaconda | Python for Beginners (105K views, 10 months ago, 10:03)
-  - [ ] 43. Variables in Python | Python for Beginners (36K views, 10 months ago, 13:17)
-  - [ ] 44. Data Types in Python | Python for Beginners (33K views, 9 months ago, 21:58)
-  - [ ] 45. Comparison, Logical, and Membership Operators in Python | Python for Beginners (17K views, 9 months ago, 7:15)
-  - [ ] 46. If Else Statements in Python | Python for Beginners (16K views, 9 months ago, 6:40)
-  - [ ] 47. For Loops in Python | Python for Beginners (18K views, 9 months ago, 9:17)
-  - [ ] 48. While Loops in Python | Python for Beginners (15K views, 9 months ago, 5:40)
-  - [ ] 49. Functions in Python | Python for Beginners (18K views, 8 months ago, 12:44)
-  - [ ] 50. Converting Data Types in Python | Python for Beginners (15K views, 8 months ago, 6:36)
-  - [ ] 51. Building a BMI Calculator with Python | Python Projects for Beginners (29K views, 7 months ago, 14:23)
-  - [ ] 52. Building an Automated File Sorter in File Explorer using Python | Python Projects for Beginners (22K views, 6 months ago, 16:51)
-  - [ ] 53. Inspecting Web Pages with HTML | Web Scraping in Python (13K views, 2 months ago, 5:55)
-  - [ ] 54. BeautifulSoup + Requests | Web Scraping in Python (14K views, 2 months ago, 6:58)
-  - [ ] 55. Find and Find_All | Web Scraping in Python (9K views, 1 month ago, 12:10)
-  - [ ] 56. Scraping Data from a Real Website | Web Scraping in Python (42K views, 1 month ago, 25:23)
-  - [ ] 57. Reading in Files in Pandas | Python Pandas Tutorials (31K views, 6 months ago, 19:17)
-  - [ ] 58. Filtering Columns and Rows in Pandas | Python Pandas Tutorials (20K views, 5 months ago, 11:49)
-  - [ ] 59. Indexes in Pandas | Python Pandas Tutorials (13K views, 5 months ago, 11:22)
-  - [ ] 60. Group By and Aggregate Functions in Pandas | Python Pandas Tutorials (14K views, 4 months ago, 11:05)
-  - [ ] 61. Merging DataFrames in Pandas | Python Pandas Tutorials (18K views, 3 months ago, 22:09)
-  - [ ] 62. Creating Visualizations using Pandas Library | Python Pandas Tutorials (18K views, 3 months ago, 16:50)
-  - [ ] 63. Data Cleaning in Pandas | Python Pandas Tutorials (49K views, 3 months ago, 38:37)
-  - [ ] 64. Exploratory Data Analysis in Pandas | Python Pandas Tutorials (28K views, 2 months ago, 32:13)
-  - [ ] 65. Amazon Web Scraping Using Python | Data Analyst Portfolio Project (177K views, 2 years ago, 47:14)
-  - [ ] 66. Automating Crypto Website API Pull Using Python | Data Analyst Project (35K views, 1 year ago, 51:14)
-  - [ ] 67. How to Create a Portfolio Website for FREE (322K views, 2 years ago, 35:29)
-  - [ ] 68. Create the Perfect Data Analyst Resume | Free Templates! (78K views, 5 months ago, 17:37)
-  - [ ] 69. Top 3 Tips on Using LinkedIn to Land a Job (198K views, 2 years ago, 6:50)
-  - [ ] 70. How To Download Your Data Analyst Bootcamp Certification (Congrats!!) (25K views, 7 months ago, 1:41)
+  - [x] 13. Intermediate SQL Tutorial | Partition By (163K views, 2 years ago, 4:14)
+
+    > PARTITION BY statement is often compared to GROUP BY statement. But they are not the same. The GROUP BY statement is going to reduce the number of rows in our result set by actually "rolling them up" (by calculating the sum, or averages for each group), while the PARTITION BY statement is going to divide the result set into partitions (and change how the window function is calculated) without reducing the number of rows in our result set.
+
+    > SELECT ed.FirstName, ed.LastName, ed.Gender, es.Salary, COUNT(Gender)
+    > OVER (PARTITION BY Gender) as TotalGender
+    > FROM EmployeeDemographics ed
+    > JOIN EmployeeSalary es
+    > ON ed.EmployeeID = es.EmployeeID
+
+    > What is a "window function"?
+    > A window function is a function that can be applied to a partition of rows. It is also called an "analytic function".
+    > Another way to think about it is that a window function is a function that can be applied to a group of rows that are related to the current row.
+    >
+    > ChatGPT's answer:
+    >
+    > ```
+    > A window function in SQL allows you to perform calculations across a set of table rows that are related to the current row, almost like a sliding "window" over the data. This is analogous to the way a window in a GUI application displays a subportion of the overall data. What makes window functions unique is that they provide access to more than just the current row of the query result.
+    >
+    > Unlike aggregate functions, which return a single result value based on a group of rows, window functions return a single value for each row from the underlying query result based on a window of rows related to that row.
+    >
+    > Key components of window functions:
+    >
+    > 1. OVER() Clause: This defines the window of rows for the function to operate on. You can specify ordering and partitioning within this clause.
+    > 2. PARTITION BY: This divides the result set into partitions to which the window function is applied. For instance, if you want to operate on groups of rows having the same value in a certain column (e.g., date or category), you'd use PARTITION BY.
+    > 3. ORDER BY: Within the OVER() clause, this determines the order in which rows will be processed by the window function.
+    > 4. ROWS/RANGE: Specifies which rows are included in the frame. The frame is a subset of the current partition and is used for calculation in functions like running totals.
+    >
+    > Examples of window functions:
+    >
+    > - Ranking functions: ROW_NUMBER(), RANK(), DENSE_RANK(), NTILE().
+    > - Analytic functions: LEAD(), LAG(), FIRST_VALUE(), LAST_VALUE().
+    > - Aggregate functions: SUM(), AVG(), MIN(), MAX(). These can be used as window functions when combined with the OVER() clause.
+    >
+    > Using our earlier example, COUNT(Gender) OVER (PARTITION BY Gender) is a window function. For each row in the dataset, it counts the number of rows with the same Gender value.
+    >
+    > In essence, window functions let you perform calculations that require considering a range or "window" of rows relative to the current row, without collapsing all those rows into a single output row.
+    > ```
+
+    > Check out this link for more info about window functions: [Colt Steele - SQL Window Functions in 10 Minutes](https://www.youtube.com/watch?v=y1KCM8vbYe4)
+    > One thing to note: Window functions perform aggregate operations on group of rows but they **produce a result FOR EACH ROW**. So we have individual row data alongside aggregated data.
+
+- [ ] 14. Advanced SQL Tutorial | CTE (Common Table Expression) (214K views, 2 years ago, 3:44)
+- [ ] 15. Advanced SQL Tutorial | Temp Tables (158K views, 2 years ago, 10:19)
+- [ ] 16. Advanced SQL Tutorial | String Functions + Use Cases (105K views, 2 years ago, 13:49)
+- [ ] 17. Advanced SQL Tutorial | Stored Procedures + Use Cases (244K views, 2 years ago, 6:15)
+- [ ] 18. Advanced SQL Tutorial | Subqueries (233K views, 2 years ago, 8:37)
+- [ ] 19. Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4 (1.3M views, 2 years ago, 1:17:09)
+- [ ] 20. Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4 (281K views, 2 years ago, 54:44)
+- [ ] 21. Pivot Tables in Excel | Excel Tutorials for Beginners (333K views, 1 year ago, 17:35)
+- [ ] 22. Formulas in Excel | Excel Tutorials for Beginners (160K views, 1 year ago, 33:54)
+- [ ] 23. XLOOKUP in Excel | Excel Tutorials for Beginners (98K views, 1 year ago, 18:47)
+- [ ] 24. Conditional Formatting in Excel | Excel Tutorials for Beginners (81K views, 1 year ago, 20:59)
+- [ ] 25. Charts in Excel | Excel Tutorials for Beginners (60K views, 1 year ago, 15:11)
+- [ ] 26. Cleaning Data in Excel | Excel Tutorials for Beginners (280K views, 1 year ago, 21:04)
+- [ ] 27. Full Project in Excel | Excel Tutorials for Beginners (417K views, 1 year ago, 40:50)
+- [ ] 28. How to Install Tableau and Create First Visualization | Tableau Tutorials for Beginners (402K views, 1 year ago, 17:04)
+- [ ] 29. How to use Calculated Fields and Bins in Tableau | Tableau Tutorials for Beginners (118K views, 1 year ago, 6:25)
+- [ ] 30. How to Create Visualizations in Tableau | Tableau Tutorials for Beginners (95K views, 1 year ago, 14:05)
+- [ ] 31. How to use Joins in Tableau | Tableau Tutorials for Beginners (69K views, 1 year ago, 14:29)
+- [ ] 32. Full Beginner Project in Tableau | Tableau Tutorials for Beginners (154K views, 1 year ago, 44:18)
+- [ ] 33. How to Install Power BI | Building First Visualization | Microsoft Power BI for Beginners (155K views, 1 year ago, 12:50)
+- [ ] 34. How to use Power Query in Power BI | Microsoft Power BI for Beginners (107K views, 1 year ago, 13:07)
+- [ ] 35. How to Create and Manage Relationships in Power BI | Microsoft Power BI for Beginners (74K views, 1 year ago, 8:36)
+- [ ] 36. How to use DAX in Power BI | Microsoft Power BI for Beginners (62K views, 1 year ago, 15:44)
+- [ ] 37. How to use Drill Down in Power BI | Microsoft Power BI for Beginners (61K views, 1 year ago, 6:02)
+- [ ] 38. How to use Conditional Formatting in Power BI | Microsoft Power BI for Beginners (49K views, 1 year ago, 9:53)
+- [ ] 39. How to use Bins and Lists in Power BI | Microsoft Power BI for Beginners (32K views, 11 months ago, 9:31)
+- [ ] 40. Popular Visualizations in Power BI | Microsoft Power BI for Beginners (35K views, 11 months ago, 14:14)
+- [ ] 41. Full Power BI Guided Project | Microsoft Power BI for Beginners (186K views, 11 months ago, 42:37)
+- [ ] 42. Installing Jupyter Notebooks/Anaconda | Python for Beginners (105K views, 10 months ago, 10:03)
+- [ ] 43. Variables in Python | Python for Beginners (36K views, 10 months ago, 13:17)
+- [ ] 44. Data Types in Python | Python for Beginners (33K views, 9 months ago, 21:58)
+- [ ] 45. Comparison, Logical, and Membership Operators in Python | Python for Beginners (17K views, 9 months ago, 7:15)
+- [ ] 46. If Else Statements in Python | Python for Beginners (16K views, 9 months ago, 6:40)
+- [ ] 47. For Loops in Python | Python for Beginners (18K views, 9 months ago, 9:17)
+- [ ] 48. While Loops in Python | Python for Beginners (15K views, 9 months ago, 5:40)
+- [ ] 49. Functions in Python | Python for Beginners (18K views, 8 months ago, 12:44)
+- [ ] 50. Converting Data Types in Python | Python for Beginners (15K views, 8 months ago, 6:36)
+- [ ] 51. Building a BMI Calculator with Python | Python Projects for Beginners (29K views, 7 months ago, 14:23)
+- [ ] 52. Building an Automated File Sorter in File Explorer using Python | Python Projects for Beginners (22K views, 6 months ago, 16:51)
+- [ ] 53. Inspecting Web Pages with HTML | Web Scraping in Python (13K views, 2 months ago, 5:55)
+- [ ] 54. BeautifulSoup + Requests | Web Scraping in Python (14K views, 2 months ago, 6:58)
+- [ ] 55. Find and Find_All | Web Scraping in Python (9K views, 1 month ago, 12:10)
+- [ ] 56. Scraping Data from a Real Website | Web Scraping in Python (42K views, 1 month ago, 25:23)
+- [ ] 57. Reading in Files in Pandas | Python Pandas Tutorials (31K views, 6 months ago, 19:17)
+- [ ] 58. Filtering Columns and Rows in Pandas | Python Pandas Tutorials (20K views, 5 months ago, 11:49)
+- [ ] 59. Indexes in Pandas | Python Pandas Tutorials (13K views, 5 months ago, 11:22)
+- [ ] 60. Group By and Aggregate Functions in Pandas | Python Pandas Tutorials (14K views, 4 months ago, 11:05)
+- [ ] 61. Merging DataFrames in Pandas | Python Pandas Tutorials (18K views, 3 months ago, 22:09)
+- [ ] 62. Creating Visualizations using Pandas Library | Python Pandas Tutorials (18K views, 3 months ago, 16:50)
+- [ ] 63. Data Cleaning in Pandas | Python Pandas Tutorials (49K views, 3 months ago, 38:37)
+- [ ] 64. Exploratory Data Analysis in Pandas | Python Pandas Tutorials (28K views, 2 months ago, 32:13)
+- [ ] 65. Amazon Web Scraping Using Python | Data Analyst Portfolio Project (177K views, 2 years ago, 47:14)
+- [ ] 66. Automating Crypto Website API Pull Using Python | Data Analyst Project (35K views, 1 year ago, 51:14)
+- [ ] 67. How to Create a Portfolio Website for FREE (322K views, 2 years ago, 35:29)
+- [ ] 68. Create the Perfect Data Analyst Resume | Free Templates! (78K views, 5 months ago, 17:37)
+- [ ] 69. Top 3 Tips on Using LinkedIn to Land a Job (198K views, 2 years ago, 6:50)
+- [ ] 70. How To Download Your Data Analyst Bootcamp Certification (Congrats!!) (25K views, 7 months ago, 1:41)
 
 ## Data Science
 
