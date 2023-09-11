@@ -354,7 +354,12 @@
     > ```
 
     > Check out this link for more info about window functions: [Colt Steele - SQL Window Functions in 10 Minutes](https://www.youtube.com/watch?v=y1KCM8vbYe4)
-    > One thing to note: Window functions perform aggregate operations on group of rows but they **produce a result FOR EACH ROW**. So we have individual row data alongside aggregated data.
+    > Several things to note:
+    >
+    > - Window functions perform aggregate operations on group of rows but they **produce a result FOR EACH ROW**. So we have individual row data alongside aggregated data.
+    > - The OVER() clause constructs a window. When it's empty, the window will include all records.
+    > - Use ORDER BY inside of the OVER() clause to re-order rows within each window.
+    > - The PARTITION BY clause divides the window into smaller sets or partitions. The window function is applied to each partition separately and computation restarts for each partition. (Copilot suggestion)
 
 - [ ] 14. Advanced SQL Tutorial | CTE (Common Table Expression) (214K views, 2 years ago, 3:44)
 - [ ] 15. Advanced SQL Tutorial | Temp Tables (158K views, 2 years ago, 10:19)
