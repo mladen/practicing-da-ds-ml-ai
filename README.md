@@ -353,7 +353,8 @@
     > In essence, window functions let you perform calculations that require considering a range or "window" of rows relative to the current row, without collapsing all those rows into a single output row.
     > ```
 
-    > Check out this link for more info about window functions: [Colt Steele - SQL Window Functions in 10 Minutes](https://www.youtube.com/watch?v=y1KCM8vbYe4)
+    > Aditional explanation [Colt Steele - SQL Window Functions in 10 Minutes](https://www.youtube.com/watch?v=y1KCM8vbYe4)
+    >
     > Several things to note:
     >
     > - Window functions perform aggregate operations on group of rows but they **produce a result FOR EACH ROW**. So we have individual row data alongside aggregated data.
@@ -361,39 +362,46 @@
     > - Use ORDER BY inside of the OVER() clause to re-order rows within each window.
     > - The PARTITION BY clause divides the window into smaller sets or partitions. The window function is applied to each partition separately and computation restarts for each partition. (Copilot suggestion)
 
-- [x] 14. Advanced SQL Tutorial | CTE (Common Table Expression) (214K views, 2 years ago, 3:44)
+  - [x] 14. Advanced SQL Tutorial | CTE (Common Table Expression) (214K views, 2 years ago, 3:44)
 
-  > CTE is a common table expression and it's a named temporary result set which is used to manipulate (Copilot suggestion: the data in the result set further) the complex sub-queries data. This only exists within the scope of the statement that we're about to write. Once we cancel out of this query it's like it never existed. A CTE is also only created in memory rather than a tempdb file like a temp table would be, but in general a CTE acts very much like a subquery and so if we know how to write subqueries we can easily learn how to write CTEs.
+    > CTE is a common table expression and it's a named temporary result set which is used to manipulate (Copilot suggestion: the data in the result set further) the complex sub-queries data. This only exists within the scope of the statement that we're about to write. Once we cancel out of this query it's like it never existed. A CTE is also only created in memory rather than a tempdb file like a temp table would be, but in general a CTE acts very much like a subquery and so if we know how to write subqueries we can easily learn how to write CTEs.
 
-  > CTEs are sometimes called "WITH" queries because we use the WITH keyword to create them. The syntax is as follows:
-  >
-  > ```
-  > WITH CTE_Employee as
-  > (SELECT ed.FirstName, ed.LastName, ed.Gender, es.Salary,
-  > COUNT(Gender) OVER (PARTITION BY Gender) as TotalGender,
-  > AVG(Salary) OVER (PARTITION BY Gender) AS AvgSalary
-  > FROM EmployeeDemographics ed
-  > JOIN EmployeeSalary es
-  > ON ed.EmployeeID = es.EmployeeID
-  > WHERE Salary > '45000')
-  > SELECT *
-  > FROM CTE_Employee
-  > ```
+    > CTEs are sometimes called "WITH" queries because we use the WITH keyword to create them. The syntax is as follows:
+    >
+    > ```
+    > WITH CTE_Employee as
+    > (SELECT ed.FirstName, ed.LastName, ed.Gender, es.Salary,
+    > COUNT(Gender) OVER (PARTITION BY Gender) as TotalGender,
+    > AVG(Salary) OVER (PARTITION BY Gender) AS AvgSalary
+    > FROM EmployeeDemographics ed
+    > JOIN EmployeeSalary es
+    > ON ed.EmployeeID = es.EmployeeID
+    > WHERE Salary > '45000')
+    >
+    > SELECT *
+    > FROM CTE_Employee
+    > ```
 
-  > Explanation suggested by the Copilot:
-  > CTE is a temporary result set that we can reference within another SQL statement. It's similar to a subquery, but it's more readable and easier to maintain.
-  >
-  > Example:
-  >
-  > ```
-  > WITH EmployeeCTE AS (
-  > 	SELECT *
-  > 	FROM EmployeeDemographics
-  > 	WHERE Age > 30
-  > )
-  > SELECT *
-  > FROM EmployeeCTE
-  > ```
+    > Explanation suggested by the Copilot:
+    > CTE is a temporary result set that we can reference within another SQL statement. It's similar to a subquery, but it's more readable and easier to maintain.
+    >
+    > Example:
+    >
+    > ```
+    > WITH EmployeeCTE AS (
+    > 	SELECT *
+    > 	FROM EmployeeDemographics
+    > 	WHERE Age > 30
+    > )
+    >
+    > SELECT *
+    > FROM EmployeeCTE
+    > ```
+
+    > Aditional explanation (check out [LearnatKnowstar - SQL | Subquery or CTE - Which one to choose? Difference between Subquery and CTE](https://www.youtube.com/watch?v=UblBNXXojoc)):
+    >
+    > CTEs are named queries (suggested by Copilot: temporary result sets) that you can reference (multiple times if needed) within another SQL statement. They are similar to subqueries, but they are more readable and easier to maintain. They are also more flexible than subqueries. For example, you can reference a CTE multiple times in the same SELECT statement, while you can only reference a subquery once.
+    > In terms of performance and in terms of how the logic is executed, they are similar to subqueries (no difference as far as I can see at the moment).
 
 - [ ] 15. Advanced SQL Tutorial | Temp Tables (158K views, 2 years ago, 10:19)
 - [ ] 16. Advanced SQL Tutorial | String Functions + Use Cases (105K views, 2 years ago, 13:49)
