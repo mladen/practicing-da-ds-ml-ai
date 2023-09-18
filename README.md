@@ -400,8 +400,17 @@
 
     > Aditional explanation (check out [LearnatKnowstar - SQL | Subquery or CTE - Which one to choose? Difference between Subquery and CTE](https://www.youtube.com/watch?v=UblBNXXojoc)):
     >
+    > Excerpt:\
     > CTEs are named queries (suggested by Copilot: temporary result sets) that you can reference (multiple times if needed) within another SQL statement. They are similar to subqueries, but they are more readable and easier to maintain. They are also more flexible than subqueries. For example, you can reference a CTE multiple times in the same SELECT statement, while you can only reference a subquery once.
     > In terms of performance and in terms of how the logic is executed, they are similar to subqueries (no difference as far as I can see at the moment).
+
+    > There are scenarios where we we can use only a CTE or only a subquery:
+    >
+    > - CTE can be recursive, while subquery cannot be recursive:
+    >   - Recursive CTEs can reference themselves in a query. (Suggested by Copilot: This is useful for querying hierarchical data (like a tree structure) or data that has a parent-child relationship.)
+    > - Corelated subqueries can reference outer table from the subquery, while CTE cannot reference outer table from the CTE.
+    >
+    > Suggested by Copilot: there are also scenarios where we can use both. In those cases, we should use a CTE because it's more readable and easier to maintain.
 
 - [ ] 15. Advanced SQL Tutorial | Temp Tables (158K views, 2 years ago, 10:19)
 - [ ] 16. Advanced SQL Tutorial | String Functions + Use Cases (105K views, 2 years ago, 13:49)
