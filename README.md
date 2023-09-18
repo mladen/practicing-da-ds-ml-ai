@@ -413,6 +413,63 @@
     > Suggested by Copilot: there are also scenarios where we can use both. In those cases, we should use a CTE because it's more readable and easier to maintain.
 
 - [ ] 15. Advanced SQL Tutorial | Temp Tables (158K views, 2 years ago, 10:19)
+
+  > Suggested by Copilot: Temp tables are like regular tables, but they are only available to the current session. They are also stored in tempdb, which is a system database. Temp tables are automatically deleted when the session that created them is closed.
+
+  > We can hit off of this temp table multiple times which we cannot do with something like CTE or subquery, where we can only use it one time or with the subquery where we need to write it multiple times within the query. (TODO: check this)\
+  > Example:
+  >
+  > ```
+  > CREATE TEMPORARY TABLE temp_Employee (
+  > EmployeeID int,
+  > JobTitle varchar(100),
+  > Salary int
+  > )
+  >
+  > SELECT *
+  > FROM temp_Employee
+  > ```
+
+  > Maybe the best way to work with temp tables is to take a subset of data from a (much) larger table, put it into a temp table, and then work with that temp table.\
+  > Example:
+  >
+  > ```
+  > INSERT INTO temp_Employee
+  > SELECT *
+  > FROM EmployeeSalary AS es
+  > WHERE es.Salary > '40000'
+  > ```
+
+  > Realistic example:
+  > We have a table with 100 million rows. We want to do some analysis on that table, but we don't want to do it on the entire table. So we can create a temp table with a subset of data from that table, and then do the analysis on that temp table. (Suggested by Copilot)
+  >
+  > ```
+  > CREATE TEMPORARY TABLE temp_Employee2
+  > SELECT JobTitle, Count(JobTitle), Avg(Age), Avg(Salary)
+  > FROM EmployeeDemographics AS ed
+  > JOIN EmployeeSalary AS es
+  > ON ed.EmployeeID = es.EmployeeID
+  > GROUP BY JobTitle
+  > ```
+
+  > Useful for later: A lot of times these temp tables are used in **stored procedures**.
+  > (we'll need to remove the temp table before we can create it again)\
+  > Example:
+  >
+  > ```
+  > DROP TABLE IF EXISTS temp_Employee
+  > CREATE TEMPORARY TABLE temp_Employee (
+  > ...
+  > )
+  >
+  > INSERT INTO temp_Employee
+  > SELECT *
+  > FROM ...
+  >
+  > SELECT *
+  > FROM temp_Employee
+  > ```
+
 - [ ] 16. Advanced SQL Tutorial | String Functions + Use Cases (105K views, 2 years ago, 13:49)
 - [ ] 17. Advanced SQL Tutorial | Stored Procedures + Use Cases (244K views, 2 years ago, 6:15)
 - [ ] 18. Advanced SQL Tutorial | Subqueries (233K views, 2 years ago, 8:37)
