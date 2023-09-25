@@ -5,9 +5,9 @@
   - [Data Science](#data-science)
     - [Data Science courses](#data-science-courses)
     - [Data Science Mathematics](#data-science-mathematics)
-    - [Data Science general (advices etc.)](#data-science-general-advices-etc)
+    - [Data Science general (how to learn, advices etc.)](#data-science-general-how-to-learn-advices-etc)
   - [Machine Learning](#machine-learning)
-    - [Machine Learning general (advices etc.)](#machine-learning-general-advices-etc)
+    - [Machine learning (how to learn, advices etc.)](#machine-learning-how-to-learn-advices-etc)
     - [Machine Learning basics](#machine-learning-basics)
     - [Machine learning courses](#machine-learning-courses)
   - [Databases](#databases)
@@ -582,7 +582,7 @@
 - [Data Nash - How Much Math Is REALLY In Data Science | What Math Do You Need For Data Science](https://www.youtube.com/watch?v=Fzfxn8U8aMw)
 - [Data Nash - Every Data Scientist Should Read This Book](https://www.youtube.com/watch?v=ZbGbqUdjc28&t=86s)
 
-### Data Science general (advices etc.)
+### Data Science general (how to learn, advices etc.)
 
 - [Stefanovic - FASTEST Way to Become a Data Analyst and ACTUALLY Get a Job](https://www.youtube.com/watch?v=AYWLZ1lES6g)
 - [Luke Barousse - How I Would Learn to be a Data Analyst](https://www.youtube.com/watch?v=CC66RXeTn_4)
@@ -592,14 +592,16 @@
 
 ## Machine Learning
 
-### Machine Learning general (advices etc.)
+### Machine learning (how to learn, advices etc.)
 
-- [Eye On AI - Why Attention is Crucial in AI](https://www.youtube.com/shorts/Knm8iDBL1hg)
-- [Weights & Biases - Scaling LLMs and Accelerating Adoption: Interview with Aidan Gomez](https://www.youtube.com/watch?v=sD24pZh7pmQ)
+- [Dave Ebbelaar - How I'd Learn AI in 2023 (if I could start over)](https://www.youtube.com/watch?v=h2FDq3agImI)
+- [How to learn AI and get RICH in the AI revolution](https://www.youtube.com/watch?v=mkRVHLQmsp4)
 
 ### Machine Learning basics
 
 - [Programming with Mosh - Python Machine Learning Tutorial (Data Science)](https://www.youtube.com/watch?v=7eh4d6sabA0)
+- [Eye On AI - Why Attention is Crucial in AI](https://www.youtube.com/shorts/Knm8iDBL1hg)
+- [Weights & Biases - Scaling LLMs and Accelerating Adoption: Interview with Aidan Gomez](https://www.youtube.com/watch?v=sD24pZh7pmQ)
 
 ### Machine learning courses
 
