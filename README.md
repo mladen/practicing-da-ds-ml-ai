@@ -10,6 +10,8 @@
     - [Machine learning (how to learn, advices etc.)](#machine-learning-how-to-learn-advices-etc)
     - [Machine Learning basics](#machine-learning-basics)
     - [Machine learning courses](#machine-learning-courses)
+    - [Artificial intelligence](#artificial-intelligence)
+      - [Tutorials](#tutorials)
   - [Databases](#databases)
     - [Interactive SQL tutorials](#interactive-sql-tutorials)
 
@@ -625,6 +627,20 @@
   - [ ] 15. Machine Learning Course for Beginners (1.3M views, 1 year ago, 9:52:19)
   - [ ] 16. AlphaZero from Scratch – Machine Learning Tutorial (95K views, 5 months ago, 4:07:54)
   - [ ] 17. Computer Vision and Perception for Self-Driving Cars (Deep Learning Course) (225K views, 1 year ago, 1:59:38)
+
+### Artificial intelligence
+
+#### Tutorials
+
+[Wes Roth - AI Tutorials](https://www.youtube.com/playlist?list=PLb1th0f6y4XQQS7qU0hIAkafMU1Kdcsi0)
+
+- [ ] 1. Install Open Interpreter in 2 min | The free, open source CODE INTERPRETER! (24K views, 2 months ago, 8:31)
+- [ ] 2. AutoGen Tutorial 🔥 How to Build POWERFUL AI Agents (90K views, 1 month ago, 30:43)
+- [ ] 3. AI Plays Pokemon with Reinforcement Learning (14K views, 1 month ago, 14:25)
+- [ ] 4. OpenAI Playground Assistant is POWERFUL! Here's how to BUILD one... (45K views, 12 days ago, 8:42)
+- [ ] 5. Create Custom GPTs | No code AI automation | OpenAI App Store | Complete Guide (189K views, 11 days ago, 26:59)
+- [ ] 6. Zapier AI Actions & GPTs | Tutorial, Examples and Automation Ideas 🔥 (50K views, 10 days ago, 30:52)
+- [ ] 7. OpenAI Assistants API to Build AI Agent SWARMS. Better than AutoGen? (30K views, 6 days ago, 34:52)
 
 ## Databases
 
