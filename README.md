@@ -10,6 +10,8 @@
     - [Machine learning (how to learn, advices etc.)](#machine-learning-how-to-learn-advices-etc)
     - [Machine Learning basics](#machine-learning-basics)
     - [Machine learning courses](#machine-learning-courses)
+      - [Premium (Udemy, Coursera etc.)](#premium-udemy-coursera-etc)
+      - [Free](#free)
     - [Artificial intelligence](#artificial-intelligence)
       - [Tutorials](#tutorials)
   - [Databases](#databases)
@@ -607,9 +609,14 @@
 
 ### Machine learning courses
 
-- [freeCodeCamp - Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A)
+#### Premium (Udemy, Coursera etc.)
+
 - [Udemy - ZTM, Andrei Neagoie, Daniel Bourke - Complete Machine Learning & Data Science Bootcamp 2023 (Rating: 4.6 out of 5 (17,179 ratings) 99,450 students), 43.5h, Last updated 6/2023](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
 - [Udemy - Jose Portilla - Python for Machine Learning & Data Science Masterclass (4.7 out of 5 (12,599 ratings) 91,232 students, 44h, Last updated 9/2021)](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
+
+#### Free
+
+- [freeCodeCamp - Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A)
 - [freeCodeCamp (playlist) - Machine Learning](https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s)
   - [ ] 1. Machine Learning for Everybody – Full Course (1.7M views, 10 months ago, 3:53:53)
   - [ ] 2. TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial (2.7M views, 3 years ago, 6:52:08)
