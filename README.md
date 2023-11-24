@@ -652,6 +652,8 @@
 
 ## Databases
 
+- [ ] [Nerd's Lesson - Meta - Database Engineering Complete Course | DBMS Complete Course](https://www.youtube.com/watch?v=iwRneX7GIGI)\*
+
 - [x] [BroCode - MySQL: JOINS are easy (INNER, LEFT, RIGHT)](https://www.youtube.com/watch?v=G3lJAxg1cy8)
 - [x] [JomaClass - SQL Joins: Difference Between Inner/Left/Right/Outer Joins](https://www.youtube.com/watch?v=zGSv0VaOtR0)
 
