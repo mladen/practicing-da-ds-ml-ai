@@ -599,6 +599,7 @@
 ### Machine learning (how to learn, advices etc.)
 
 - [Boris Meinardus - How I’d learn ML in 2024 (if I could start over)](https://www.youtube.com/watch?v=gUmagAluXpk)
+- [Boris Meinardus - 6 Proven Tips to Make Your ML Application Stand Out](https://www.youtube.com/watch?v=iwtd2MK58sE)
 - [Thu Vu data analytics - How I'd Learn AI (If I Had to Start Over)](https://www.youtube.com/watch?v=TR7AGmey1C8)
 - [Dave Ebbelaar - How I'd Learn AI in 2023 (if I could start over)](https://www.youtube.com/watch?v=h2FDq3agImI)
 - [How to learn AI and get RICH in the AI revolution](https://www.youtube.com/watch?v=mkRVHLQmsp4)
