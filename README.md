@@ -416,119 +416,132 @@
     >
     > Suggested by Copilot: there are also scenarios where we can use both. In those cases, we should use a CTE because it's more readable and easier to maintain.
 
-- [ ] 15. Advanced SQL Tutorial | Temp Tables (158K views, 2 years ago, 10:19)
+  - [ ] 15. Advanced SQL Tutorial | Temp Tables (158K views, 2 years ago, 10:19)
 
-  > Suggested by Copilot: Temp tables are like regular tables, but they are only available to the current session. They are also stored in tempdb, which is a system database. Temp tables are automatically deleted when the session that created them is closed.
+    > Suggested by Copilot: Temp tables are like regular tables, but they are only available to the current session. They are also stored in tempdb, which is a system database. Temp tables are automatically deleted when the session that created them is closed.
 
-  > We can hit off of this temp table multiple times which we cannot do with something like CTE or subquery, where we can only use it one time or with the subquery where we need to write it multiple times within the query. (TODO: check this)\
-  > Example:
-  >
-  > ```
-  > CREATE TEMPORARY TABLE temp_Employee (
-  > EmployeeID int,
-  > JobTitle varchar(100),
-  > Salary int
-  > )
-  >
-  > SELECT *
-  > FROM temp_Employee
-  > ```
+    > We can hit off of this temp table multiple times which we cannot do with something like CTE or subquery, where we can only use it one time or with the subquery where we need to write it multiple times within the query. (TODO: check this)\
+    > Example:
+    >
+    > ```
+    > CREATE TEMPORARY TABLE temp_Employee (
+    > EmployeeID int,
+    > JobTitle varchar(100),
+    > Salary int
+    > )
+    >
+    > SELECT *
+    > FROM temp_Employee
+    > ```
 
-  > Maybe the best way to work with temp tables is to take a subset of data from a (much) larger table, put it into a temp table, and then work with that temp table.\
-  > Example:
-  >
-  > ```
-  > INSERT INTO temp_Employee
-  > SELECT *
-  > FROM EmployeeSalary AS es
-  > WHERE es.Salary > '40000'
-  > ```
+    > Maybe the best way to work with temp tables is to take a subset of data from a (much) larger table, put it into a temp table, and then work with that temp table.\
+    > Example:
+    >
+    > ```
+    > INSERT INTO temp_Employee
+    > SELECT *
+    > FROM EmployeeSalary AS es
+    > WHERE es.Salary > '40000'
+    > ```
 
-  > Realistic example:
-  > We have a table with 100 million rows. We want to do some analysis on that table, but we don't want to do it on the entire table. So we can create a temp table with a subset of data from that table, and then do the analysis on that temp table. (Suggested by Copilot)
-  >
-  > ```
-  > CREATE TEMPORARY TABLE temp_Employee2
-  > SELECT JobTitle, Count(JobTitle), Avg(Age), Avg(Salary)
-  > FROM EmployeeDemographics AS ed
-  > JOIN EmployeeSalary AS es
-  > ON ed.EmployeeID = es.EmployeeID
-  > GROUP BY JobTitle
-  > ```
+    > Realistic example:
+    > We have a table with 100 million rows. We want to do some analysis on that table, but we don't want to do it on the entire table. So we can create a temp table with a subset of data from that table, and then do the analysis on that temp table. (Suggested by Copilot)
+    >
+    > ```
+    > CREATE TEMPORARY TABLE temp_Employee2
+    > SELECT JobTitle, Count(JobTitle), Avg(Age), Avg(Salary)
+    > FROM EmployeeDemographics AS ed
+    > JOIN EmployeeSalary AS es
+    > ON ed.EmployeeID = es.EmployeeID
+    > GROUP BY JobTitle
+    > ```
 
-  > Useful for later: A lot of times these temp tables are used in **stored procedures**.
-  > (we'll need to remove the temp table before we can create it again)\
-  > Example:
-  >
-  > ```
-  > DROP TABLE IF EXISTS temp_Employee
-  > CREATE TEMPORARY TABLE temp_Employee (
-  > ...
-  > )
-  >
-  > INSERT INTO temp_Employee
-  > SELECT *
-  > FROM ...
-  >
-  > SELECT *
-  > FROM temp_Employee
-  > ```
+    > Useful for later: A lot of times these temp tables are used in **stored procedures**.
+    > (we'll need to remove the temp table before we can create it again)\
+    > Example:
+    >
+    > ```
+    > DROP TABLE IF EXISTS temp_Employee
+    > CREATE TEMPORARY TABLE temp_Employee (
+    > ...
+    > )
+    >
+    > INSERT INTO temp_Employee
+    > SELECT *
+    > FROM ...
+    >
+    > SELECT *
+    > FROM temp_Employee
+    > ```
 
-- [ ] 16. Advanced SQL Tutorial | String Functions + Use Cases (105K views, 2 years ago, 13:49)
-- [ ] 17. Advanced SQL Tutorial | Stored Procedures + Use Cases (244K views, 2 years ago, 6:15)
-- [ ] 18. Advanced SQL Tutorial | Subqueries (233K views, 2 years ago, 8:37)
-- [ ] 19. Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4 (1.3M views, 2 years ago, 1:17:09)
-- [ ] 20. Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4 (281K views, 2 years ago, 54:44)
-- [ ] 21. Pivot Tables in Excel | Excel Tutorials for Beginners (333K views, 1 year ago, 17:35)
-- [ ] 22. Formulas in Excel | Excel Tutorials for Beginners (160K views, 1 year ago, 33:54)
-- [ ] 23. XLOOKUP in Excel | Excel Tutorials for Beginners (98K views, 1 year ago, 18:47)
-- [ ] 24. Conditional Formatting in Excel | Excel Tutorials for Beginners (81K views, 1 year ago, 20:59)
-- [ ] 25. Charts in Excel | Excel Tutorials for Beginners (60K views, 1 year ago, 15:11)
-- [ ] 26. Cleaning Data in Excel | Excel Tutorials for Beginners (280K views, 1 year ago, 21:04)
-- [ ] 27. Full Project in Excel | Excel Tutorials for Beginners (417K views, 1 year ago, 40:50)
-- [ ] 28. How to Install Tableau and Create First Visualization | Tableau Tutorials for Beginners (402K views, 1 year ago, 17:04)
-- [ ] 29. How to use Calculated Fields and Bins in Tableau | Tableau Tutorials for Beginners (118K views, 1 year ago, 6:25)
-- [ ] 30. How to Create Visualizations in Tableau | Tableau Tutorials for Beginners (95K views, 1 year ago, 14:05)
-- [ ] 31. How to use Joins in Tableau | Tableau Tutorials for Beginners (69K views, 1 year ago, 14:29)
-- [ ] 32. Full Beginner Project in Tableau | Tableau Tutorials for Beginners (154K views, 1 year ago, 44:18)
-- [ ] 33. How to Install Power BI | Building First Visualization | Microsoft Power BI for Beginners (155K views, 1 year ago, 12:50)
-- [ ] 34. How to use Power Query in Power BI | Microsoft Power BI for Beginners (107K views, 1 year ago, 13:07)
-- [ ] 35. How to Create and Manage Relationships in Power BI | Microsoft Power BI for Beginners (74K views, 1 year ago, 8:36)
-- [ ] 36. How to use DAX in Power BI | Microsoft Power BI for Beginners (62K views, 1 year ago, 15:44)
-- [ ] 37. How to use Drill Down in Power BI | Microsoft Power BI for Beginners (61K views, 1 year ago, 6:02)
-- [ ] 38. How to use Conditional Formatting in Power BI | Microsoft Power BI for Beginners (49K views, 1 year ago, 9:53)
-- [ ] 39. How to use Bins and Lists in Power BI | Microsoft Power BI for Beginners (32K views, 11 months ago, 9:31)
-- [ ] 40. Popular Visualizations in Power BI | Microsoft Power BI for Beginners (35K views, 11 months ago, 14:14)
-- [ ] 41. Full Power BI Guided Project | Microsoft Power BI for Beginners (186K views, 11 months ago, 42:37)
-- [ ] 42. Installing Jupyter Notebooks/Anaconda | Python for Beginners (105K views, 10 months ago, 10:03)
-- [ ] 43. Variables in Python | Python for Beginners (36K views, 10 months ago, 13:17)
-- [ ] 44. Data Types in Python | Python for Beginners (33K views, 9 months ago, 21:58)
-- [ ] 45. Comparison, Logical, and Membership Operators in Python | Python for Beginners (17K views, 9 months ago, 7:15)
-- [ ] 46. If Else Statements in Python | Python for Beginners (16K views, 9 months ago, 6:40)
-- [ ] 47. For Loops in Python | Python for Beginners (18K views, 9 months ago, 9:17)
-- [ ] 48. While Loops in Python | Python for Beginners (15K views, 9 months ago, 5:40)
-- [ ] 49. Functions in Python | Python for Beginners (18K views, 8 months ago, 12:44)
-- [ ] 50. Converting Data Types in Python | Python for Beginners (15K views, 8 months ago, 6:36)
-- [ ] 51. Building a BMI Calculator with Python | Python Projects for Beginners (29K views, 7 months ago, 14:23)
-- [ ] 52. Building an Automated File Sorter in File Explorer using Python | Python Projects for Beginners (22K views, 6 months ago, 16:51)
-- [ ] 53. Inspecting Web Pages with HTML | Web Scraping in Python (13K views, 2 months ago, 5:55)
-- [ ] 54. BeautifulSoup + Requests | Web Scraping in Python (14K views, 2 months ago, 6:58)
-- [ ] 55. Find and Find_All | Web Scraping in Python (9K views, 1 month ago, 12:10)
-- [ ] 56. Scraping Data from a Real Website | Web Scraping in Python (42K views, 1 month ago, 25:23)
-- [ ] 57. Reading in Files in Pandas | Python Pandas Tutorials (31K views, 6 months ago, 19:17)
-- [ ] 58. Filtering Columns and Rows in Pandas | Python Pandas Tutorials (20K views, 5 months ago, 11:49)
-- [ ] 59. Indexes in Pandas | Python Pandas Tutorials (13K views, 5 months ago, 11:22)
-- [ ] 60. Group By and Aggregate Functions in Pandas | Python Pandas Tutorials (14K views, 4 months ago, 11:05)
-- [ ] 61. Merging DataFrames in Pandas | Python Pandas Tutorials (18K views, 3 months ago, 22:09)
-- [ ] 62. Creating Visualizations using Pandas Library | Python Pandas Tutorials (18K views, 3 months ago, 16:50)
-- [ ] 63. Data Cleaning in Pandas | Python Pandas Tutorials (49K views, 3 months ago, 38:37)
-- [ ] 64. Exploratory Data Analysis in Pandas | Python Pandas Tutorials (28K views, 2 months ago, 32:13)
-- [ ] 65. Amazon Web Scraping Using Python | Data Analyst Portfolio Project (177K views, 2 years ago, 47:14)
-- [ ] 66. Automating Crypto Website API Pull Using Python | Data Analyst Project (35K views, 1 year ago, 51:14)
-- [ ] 67. How to Create a Portfolio Website for FREE (322K views, 2 years ago, 35:29)
-- [ ] 68. Create the Perfect Data Analyst Resume | Free Templates! (78K views, 5 months ago, 17:37)
-- [ ] 69. Top 3 Tips on Using LinkedIn to Land a Job (198K views, 2 years ago, 6:50)
-- [ ] 70. How To Download Your Data Analyst Bootcamp Certification (Congrats!!) (25K views, 7 months ago, 1:41)
+  - [ ] 16. Advanced SQL Tutorial | String Functions + Use Cases (105K views, 2 years ago, 13:49)
+  - [ ] 17. Advanced SQL Tutorial | Stored Procedures + Use Cases (244K views, 2 years ago, 6:15)
+  - [ ] 18. Advanced SQL Tutorial | Subqueries (233K views, 2 years ago, 8:37)
+  - [ ] 19. Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4 (1.3M views, 2 years ago, 1:17:09)
+  - [ ] 20. Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4 (281K views, 2 years ago, 54:44)
+  - [ ] 21. Pivot Tables in Excel | Excel Tutorials for Beginners (333K views, 1 year ago, 17:35)
+  - [ ] 22. Formulas in Excel | Excel Tutorials for Beginners (160K views, 1 year ago, 33:54)
+  - [ ] 23. XLOOKUP in Excel | Excel Tutorials for Beginners (98K views, 1 year ago, 18:47)
+  - [ ] 24. Conditional Formatting in Excel | Excel Tutorials for Beginners (81K views, 1 year ago, 20:59)
+  - [ ] 25. Charts in Excel | Excel Tutorials for Beginners (60K views, 1 year ago, 15:11)
+  - [ ] 26. Cleaning Data in Excel | Excel Tutorials for Beginners (280K views, 1 year ago, 21:04)
+  - [ ] 27. Full Project in Excel | Excel Tutorials for Beginners (417K views, 1 year ago, 40:50)
+  - [ ] 28. How to Install Tableau and Create First Visualization | Tableau Tutorials for Beginners (402K views, 1 year ago, 17:04)
+  - [ ] 29. How to use Calculated Fields and Bins in Tableau | Tableau Tutorials for Beginners (118K views, 1 year ago, 6:25)
+  - [ ] 30. How to Create Visualizations in Tableau | Tableau Tutorials for Beginners (95K views, 1 year ago, 14:05)
+  - [ ] 31. How to use Joins in Tableau | Tableau Tutorials for Beginners (69K views, 1 year ago, 14:29)
+  - [ ] 32. Full Beginner Project in Tableau | Tableau Tutorials for Beginners (154K views, 1 year ago, 44:18)
+  - [ ] 33. How to Install Power BI | Building First Visualization | Microsoft Power BI for Beginners (155K views, 1 year ago, 12:50)
+  - [ ] 34. How to use Power Query in Power BI | Microsoft Power BI for Beginners (107K views, 1 year ago, 13:07)
+  - [ ] 35. How to Create and Manage Relationships in Power BI | Microsoft Power BI for Beginners (74K views, 1 year ago, 8:36)
+  - [ ] 36. How to use DAX in Power BI | Microsoft Power BI for Beginners (62K views, 1 year ago, 15:44)
+  - [ ] 37. How to use Drill Down in Power BI | Microsoft Power BI for Beginners (61K views, 1 year ago, 6:02)
+  - [ ] 38. How to use Conditional Formatting in Power BI | Microsoft Power BI for Beginners (49K views, 1 year ago, 9:53)
+  - [ ] 39. How to use Bins and Lists in Power BI | Microsoft Power BI for Beginners (32K views, 11 months ago, 9:31)
+  - [ ] 40. Popular Visualizations in Power BI | Microsoft Power BI for Beginners (35K views, 11 months ago, 14:14)
+  - [ ] 41. Full Power BI Guided Project | Microsoft Power BI for Beginners (186K views, 11 months ago, 42:37)
+  - [ ] 42. Installing Jupyter Notebooks/Anaconda | Python for Beginners (105K views, 10 months ago, 10:03)
+  - [ ] 43. Variables in Python | Python for Beginners (36K views, 10 months ago, 13:17)
+  - [ ] 44. Data Types in Python | Python for Beginners (33K views, 9 months ago, 21:58)
+  - [ ] 45. Comparison, Logical, and Membership Operators in Python | Python for Beginners (17K views, 9 months ago, 7:15)
+  - [ ] 46. If Else Statements in Python | Python for Beginners (16K views, 9 months ago, 6:40)
+  - [ ] 47. For Loops in Python | Python for Beginners (18K views, 9 months ago, 9:17)
+  - [ ] 48. While Loops in Python | Python for Beginners (15K views, 9 months ago, 5:40)
+  - [ ] 49. Functions in Python | Python for Beginners (18K views, 8 months ago, 12:44)
+  - [ ] 50. Converting Data Types in Python | Python for Beginners (15K views, 8 months ago, 6:36)
+  - [ ] 51. Building a BMI Calculator with Python | Python Projects for Beginners (29K views, 7 months ago, 14:23)
+  - [ ] 52. Building an Automated File Sorter in File Explorer using Python | Python Projects for Beginners (22K views, 6 months ago, 16:51)
+  - [ ] 53. Inspecting Web Pages with HTML | Web Scraping in Python (13K views, 2 months ago, 5:55)
+  - [ ] 54. BeautifulSoup + Requests | Web Scraping in Python (14K views, 2 months ago, 6:58)
+  - [ ] 55. Find and Find_All | Web Scraping in Python (9K views, 1 month ago, 12:10)
+  - [ ] 56. Scraping Data from a Real Website | Web Scraping in Python (42K views, 1 month ago, 25:23)
+  - [ ] 57. Reading in Files in Pandas | Python Pandas Tutorials (31K views, 6 months ago, 19:17)
+  - [ ] 58. Filtering Columns and Rows in Pandas | Python Pandas Tutorials (20K views, 5 months ago, 11:49)
+  - [ ] 59. Indexes in Pandas | Python Pandas Tutorials (13K views, 5 months ago, 11:22)
+  - [ ] 60. Group By and Aggregate Functions in Pandas | Python Pandas Tutorials (14K views, 4 months ago, 11:05)
+  - [ ] 61. Merging DataFrames in Pandas | Python Pandas Tutorials (18K views, 3 months ago, 22:09)
+  - [ ] 62. Creating Visualizations using Pandas Library | Python Pandas Tutorials (18K views, 3 months ago, 16:50)
+  - [ ] 63. Data Cleaning in Pandas | Python Pandas Tutorials (49K views, 3 months ago, 38:37)
+  - [ ] 64. Exploratory Data Analysis in Pandas | Python Pandas Tutorials (28K views, 2 months ago, 32:13)
+  - [ ] 65. Amazon Web Scraping Using Python | Data Analyst Portfolio Project (177K views, 2 years ago, 47:14)
+  - [ ] 66. Automating Crypto Website API Pull Using Python | Data Analyst Project (35K views, 1 year ago, 51:14)
+  - [ ] 67. How to Create a Portfolio Website for FREE (322K views, 2 years ago, 35:29)
+  - [ ] 68. Create the Perfect Data Analyst Resume | Free Templates! (78K views, 5 months ago, 17:37)
+  - [ ] 69. Top 3 Tips on Using LinkedIn to Land a Job (198K views, 2 years ago, 6:50)
+  - [ ] 70. How To Download Your Data Analyst Bootcamp Certification (Congrats!!) (25K views, 7 months ago, 1:41)
+
+- [Shashank Kalanithi - Day in the Life of a Data Analyst](https://www.youtube.com/watch?v=pKvWD0f18Pc)
+
+  - 1. Data Analyst - Python PCA Application w/ Streamlit (29K views, 2 years ago, 1:11:54)
+  - 2. Day in the Life of a Data Analyst - SurveyMonkey Data Transformation (3M views, 2 years ago, 1:17:14)
+  - 3. Day in the Life of a Data Analyst - Bing Maps API (20K views, 2 years ago, 29:00)
+  - 4. Day in the Life of a Data Analyst - SurveyMonkey Data Transformation (Using R) (18K views, 2 years ago, 41:55)
+  - 5. Data Analyst - PyCaret to Enhance Your Machine Learning (4K views, 2 years ago, 31:04)
+  - 6. Day in the Life of a Data Analyst - Google Data Studio (28K views, 2 years ago, 31:33)
+  - 7. Making Money (as a data analyst) - Webscraping with ScraperAPI (20K views, 2 years ago, 57:13)
+  - 8. Data Cleaning CHALLENGE (can you think of a better solution?) (131K views, 2 years ago, 22:41)
+
+- [Shashank Kalanithi - A Data Crash Course | 100+ Key Data Concepts](https://www.youtube.com/watch?v=56INeYrTiyE)
 
 ## Data Science
 
