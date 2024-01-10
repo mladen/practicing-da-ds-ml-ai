@@ -16,6 +16,8 @@
       - [Tutorials](#tutorials)
   - [Databases](#databases)
     - [Interactive SQL tutorials](#interactive-sql-tutorials)
+  - [Platforms for learning](#platforms-for-learning)
+  - [Other](#other)
 
 ## Data Analysis
 
@@ -597,7 +599,7 @@
 ### Data Science Mathematics
 
 - [Data Nash - How Much Math Is REALLY In Data Science | What Math Do You Need For Data Science](https://www.youtube.com/watch?v=Fzfxn8U8aMw)
-- [Data Nash - Every Data Scientist Should Read This Book](https://www.youtube.com/watch?v=ZbGbqUdjc28&t=86s)
+- [Data Nash - Every Data Scientist Should Read This Book](https://www.youtube.com/watch?v=ZbGbqUdjc28)
 
 ### Data Science general (how to learn, advices etc.)
 
@@ -606,6 +608,49 @@
 - [Power Couple - FASTEST Way to Learn Data Science and ACTUALLY Get a Job](https://www.youtube.com/watch?v=AI1eKN1Eldg)
 - [Josh Brindley - FASTEST Way to become a Data Analyst and ACTUALLY get a job [2023]](https://www.youtube.com/watch?v=08DAw16x63E)
 - [DataNash - How I'd Learn Data Science In 2023 (If I Could Restart) | A Beginner's Roadmap](https://www.youtube.com/watch?v=Z79AqDouS-Y)
+- [Data Appreciation Society - How To Get a Job in MACHINE LEARNING without a DEGREE | 7 Best Tips](https://www.youtube.com/watch?v=ZPXh_-_iHR8) (the following URL's are mostly generated using the Copilot, but comments are added by me based on the info from this video)
+  - Learn Data Exploration (data preprocessing, data cleaning, data visualization)
+    - [Article on data pre-processing/data exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
+    - [Another article explaining why it is so important to know for data scientists and machine learning engineers](https://www.infoworld.com/article/3228245/the-80-20-data-science-dilemma.html)
+  - Learn Pandas, SciKit-Learn, NumPy (also Matplotlib, Seaborn)
+    - [Pandas](https://pandas.pydata.org/)
+    - [SciKit-Learn](https://scikit-learn.org/stable/)
+    - [NumPy](https://numpy.org/)
+    - [Matplotlib](https://matplotlib.org/)
+    - [Seaborn](https://seaborn.pydata.org/)
+    - [DataCamp - Pandas Cheat Sheet](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet)
+    - [DataCamp - NumPy Cheat Sheet](https://www.datacamp.com/community/blog/python-numpy-cheat-sheet)
+    - [DataCamp - Matplotlib Cheat Sheet](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
+    - [DataCamp - Seaborn Cheat Sheet](https://www.datacamp.com/community/blog/seaborn-cheat-sheet-python)
+    - [DataCamp - SciKit-Learn Cheat Sheet](https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet)
+    - [DataCamp - SciPy Cheat Sheet](https://www.datacamp.com/community/blog/python-scipy-cheat-sheet)
+  - SQL ("you only need basic SQL" hmmm)
+    - [DataCamp - SQL Cheat Sheet](https://www.datacamp.com/community/blog/sql-cheat-sheet)
+    - [DataCamp - SQL Tutorial](https://www.datacamp.com/community/tutorials/sql-tutorial-query)
+    - [DataCamp - SQL Tutorial: How To Write Better Queries](https://www.datacamp.com/community/tutorials/sql-tutorial-query)
+    - [Recommended in video - W3School](https://www.w3schools.com/sql/default.asp)
+  - Start with startups
+    - [AngelList](https://angel.co/)
+    - [Crunchbase](https://www.crunchbase.com/)
+    - [LinkedIn](https://www.linkedin.com/)
+    - [Glassdoor](https://www.glassdoor.com/index.htm)
+    - [Indeed](https://www.indeed.com/)
+    - [Hired](https://hired.com/)
+    - [Triplebyte](https://triplebyte.com/)
+    - [DataJobs](https://www.datajobs.com/)
+    - [Data Science Jobs](https://datasciencejobs.io/)
+    - [Data Science Central](https://www.datasciencecentral.com/)
+    - [Data Elixir](https://dataelixir.com/)
+    - [Data Science Weekly](https://www.datascienceweekly.org/)
+    - [Data Science Report](https://www.datascienceweekly.org/newsletters/data-science-report)
+    - [Data Science 101](https://101.datascience.community/)
+    - [Data Science Central](https://www.datasciencecentral.com/)
+    - [Data Science Central - Jobs](https://www.datasciencecentral.com/profiles/blogs/data-science-jobs)
+  - Look for a mentor
+    - [Data Science Mentors](https://datasciencementors.com/)
+    - Follow on LinkedIn: Kate Strachnyi, Cassie Kozyrkov, Andrew Ng, Jason Brownlee, Elena Tej Grewal, Vin Vashishta, Kevin Gray
+  - Personal projects
+    - [DataCamp - 5 Data Science Projects That Will Get You Hired in 2021](https://www.datacamp.com/community/blog/data-science-projects)
 
 ## Machine Learning
 
@@ -655,6 +700,8 @@
 ### Artificial intelligence
 
 #### Tutorials
+
+[freeCodeCamp - Harvard CS50’s Artificial Intelligence with Python – Full University Course](https://www.youtube.com/watch?v=5NgNicANyqM)
 
 [Wes Roth - AI Tutorials](https://www.youtube.com/playlist?list=PLb1th0f6y4XQQS7qU0hIAkafMU1Kdcsi0)
 
@@ -709,3 +756,11 @@
 - [SQLBolt](https://sqlbolt.com/)
 - [SQLZOO](https://sqlzoo.net/)
 - [Spathon - Visual JOIN - Understand how joins work by interacting and see it visually](https://joins.spathon.com/)
+
+## Platforms for learning
+
+[Elements of AI](https://www.elementsofai.com/) - free course on AI
+
+## Other
+
+https://ainowinstitute.org/publication/policy/compute-and-ai
