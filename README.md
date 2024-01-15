@@ -12,11 +12,13 @@
     - [Machine learning courses](#machine-learning-courses)
       - [Premium (Udemy, Coursera etc.)](#premium-udemy-coursera-etc)
       - [Free](#free)
-    - [Artificial intelligence](#artificial-intelligence)
-      - [Tutorials](#tutorials)
+  - [Artificial intelligence](#artificial-intelligence)
+    - [Tutorials](#tutorials)
   - [Databases](#databases)
     - [Interactive SQL tutorials](#interactive-sql-tutorials)
   - [Platforms for learning](#platforms-for-learning)
+  - [Talks](#talks)
+  - [Interviews](#interviews)
   - [Other](#other)
 
 ## Data Analysis
@@ -657,7 +659,9 @@
 ### Machine learning (how to learn, advices etc.)
 
 - [Boris Meinardus - How I’d learn ML in 2024 (if I could start over)](https://www.youtube.com/watch?v=gUmagAluXpk)
-- [Boris Meinardus - 6 Proven Tips to Make Your ML Application Stand Out](https://www.youtube.com/watch?v=iwtd2MK58sE)
+- [Boris Meinardus - How To Build A Machine Learning Portfolio in 2024](https://www.youtube.com/watch?v=iwtd2MK58sE)
+- [Boris Meinardus - 7 Mistakes Beginner ML Students Make Every Year](https://www.youtube.com/watch?v=Oz7r89YDMis)
+- [Boris Meinardus - This Simple RESUME got me 5 Machine Learning Interviews](https://www.youtube.com/watch?v=FpW8aiJPvts)
 - [Thu Vu data analytics - How I'd Learn AI (If I Had to Start Over)](https://www.youtube.com/watch?v=TR7AGmey1C8)
 - [Dave Ebbelaar - How I'd Learn AI in 2023 (if I could start over)](https://www.youtube.com/watch?v=h2FDq3agImI)
 - [How to learn AI and get RICH in the AI revolution](https://www.youtube.com/watch?v=mkRVHLQmsp4)
@@ -666,7 +670,6 @@
 
 - [Programming with Mosh - Python Machine Learning Tutorial (Data Science)](https://www.youtube.com/watch?v=7eh4d6sabA0)
 - [Eye On AI - Why Attention is Crucial in AI](https://www.youtube.com/shorts/Knm8iDBL1hg)
-- [Weights & Biases - Scaling LLMs and Accelerating Adoption: Interview with Aidan Gomez](https://www.youtube.com/watch?v=sD24pZh7pmQ)
 
 ### Machine learning courses
 
@@ -677,6 +680,7 @@
 
 #### Free
 
+- [Jeremy Howard - A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 - [freeCodeCamp - Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A)
 - [freeCodeCamp (playlist) - Machine Learning](https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s)
   - [ ] 1. Machine Learning for Everybody – Full Course (1.7M views, 10 months ago, 3:53:53)
@@ -697,9 +701,9 @@
   - [ ] 16. AlphaZero from Scratch – Machine Learning Tutorial (95K views, 5 months ago, 4:07:54)
   - [ ] 17. Computer Vision and Perception for Self-Driving Cars (Deep Learning Course) (225K views, 1 year ago, 1:59:38)
 
-### Artificial intelligence
+## Artificial intelligence
 
-#### Tutorials
+### Tutorials
 
 [freeCodeCamp - Harvard CS50’s Artificial Intelligence with Python – Full University Course](https://www.youtube.com/watch?v=5NgNicANyqM)
 
@@ -759,8 +763,19 @@
 
 ## Platforms for learning
 
-[Elements of AI](https://www.elementsofai.com/) - free course on AI
+- [Elements of AI](https://www.elementsofai.com/) - free course on AI
+
+## Talks
+
+- [TEDxTalks - Neuroscience and Artificial Intelligence Need Each Other | Marvin Chun | TEDxKFAS](https://www.youtube.com/watch?v=97iYdJE9mQ4)
+
+## Interviews
+
+- [Edan Meyer - I Talked with Rich Sutton](https://www.youtube.com/watch?v=4feeUJnrrYg)
+- [Aleksa Gordić - The AI Epiphany - Tanishq Abraham (PhD at 19) - MedARC](https://www.youtube.com/watch?v=shkHEzSgCIU)
+- [Jeremy Howard - Tanishq Mathew Abraham - Their Life and Work Eps 1](https://www.youtube.com/watch?v=jNIPiNrl9Jo)
+- [Weights & Biases - Scaling LLMs and Accelerating Adoption: Interview with Aidan Gomez](https://www.youtube.com/watch?v=sD24pZh7pmQ)
 
 ## Other
 
-https://ainowinstitute.org/publication/policy/compute-and-ai
+- https://ainowinstitute.org/publication/policy/compute-and-ai
