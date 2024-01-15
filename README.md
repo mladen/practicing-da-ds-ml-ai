@@ -8,6 +8,7 @@
     - [Data Science general (how to learn, advices etc.)](#data-science-general-how-to-learn-advices-etc)
   - [Machine Learning](#machine-learning)
     - [Machine learning (how to learn, advices etc.)](#machine-learning-how-to-learn-advices-etc)
+    - [Machine learning projects](#machine-learning-projects)
     - [Machine Learning basics](#machine-learning-basics)
     - [Machine learning courses](#machine-learning-courses)
       - [Premium (Udemy, Coursera etc.)](#premium-udemy-coursera-etc)
@@ -658,18 +659,25 @@
 
 ### Machine learning (how to learn, advices etc.)
 
+- [Aleksa Gordić - The AI Epiphany - How I Got a Job at DeepMind as a Research Engineer (without a Machine Learning Degree!)](https://www.youtube.com/watch?v=SgaN-4po_cA)
 - [Boris Meinardus - How I’d learn ML in 2024 (if I could start over)](https://www.youtube.com/watch?v=gUmagAluXpk)
-- [Boris Meinardus - How To Build A Machine Learning Portfolio in 2024](https://www.youtube.com/watch?v=iwtd2MK58sE)
 - [Boris Meinardus - 7 Mistakes Beginner ML Students Make Every Year](https://www.youtube.com/watch?v=Oz7r89YDMis)
 - [Boris Meinardus - This Simple RESUME got me 5 Machine Learning Interviews](https://www.youtube.com/watch?v=FpW8aiJPvts)
 - [Thu Vu data analytics - How I'd Learn AI (If I Had to Start Over)](https://www.youtube.com/watch?v=TR7AGmey1C8)
 - [Dave Ebbelaar - How I'd Learn AI in 2023 (if I could start over)](https://www.youtube.com/watch?v=h2FDq3agImI)
-- [How to learn AI and get RICH in the AI revolution](https://www.youtube.com/watch?v=mkRVHLQmsp4)
+- [Sahil & Sarra (former "The Power Couple") - How to learn AI and get RICH in the AI revolution](https://www.youtube.com/watch?v=mkRVHLQmsp4)
+- [Amazon Web Services - How I Started a Career in Machine Learning - No PHD Required](https://www.youtube.com/watch?v=cC8A5VmEVtg)
+
+### Machine learning projects
+
+- [ ] [Smitha Kolan - Machine Learning Engineer - ABSOLUTE BEGINNER Machine Learning NLP Project (Tutorial)](https://www.youtube.com/watch?v=YkK_m2Ujq5Q)
+- [ ] [Boris Meinardus - How To Build A Machine Learning Portfolio in 2024](https://www.youtube.com/watch?v=iwtd2MK58sE)
 
 ### Machine Learning basics
 
-- [Programming with Mosh - Python Machine Learning Tutorial (Data Science)](https://www.youtube.com/watch?v=7eh4d6sabA0)
-- [Eye On AI - Why Attention is Crucial in AI](https://www.youtube.com/shorts/Knm8iDBL1hg)
+- r2d3 - A visual introduction to machine learning (text)
+  - [Part 1 - A Decision Tree (text)](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+  - [Part 2 - Model Tuning and the Bias-Variance Tradeoff (text)](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 
 ### Machine learning courses
 
@@ -681,9 +689,12 @@
 #### Free
 
 - [Jeremy Howard - A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+- [Programming with Mosh - Python Machine Learning Tutorial (Data Science)](https://www.youtube.com/watch?v=7eh4d6sabA0)
+- [Eye On AI - Why Attention is Crucial in AI](https://www.youtube.com/shorts/Knm8iDBL1hg)
 - [freeCodeCamp - Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A)
 - [freeCodeCamp (playlist) - Machine Learning](https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s)
   - [ ] 1. Machine Learning for Everybody – Full Course (1.7M views, 10 months ago, 3:53:53)
+    - Note: The course is using TensorFlow
   - [ ] 2. TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial (2.7M views, 3 years ago, 6:52:08)
   - [ ] 3. Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning (1.9M views, 1 year ago, 2:32:40)
   - [ ] 4. No Black Box Machine Learning Course – Learn Without Libraries (280K views, 4 months ago, 3:51:31)
@@ -775,6 +786,8 @@
 - [Aleksa Gordić - The AI Epiphany - Tanishq Abraham (PhD at 19) - MedARC](https://www.youtube.com/watch?v=shkHEzSgCIU)
 - [Jeremy Howard - Tanishq Mathew Abraham - Their Life and Work Eps 1](https://www.youtube.com/watch?v=jNIPiNrl9Jo)
 - [Weights & Biases - Scaling LLMs and Accelerating Adoption: Interview with Aidan Gomez](https://www.youtube.com/watch?v=sD24pZh7pmQ)
+- [Lex Fridman - Charles Isbell and Michael Littman: Machine Learning and Education | Lex Fridman Podcast #148](https://www.youtube.com/watch?v=yzMVEbs8Zz0)
+- [IBE Munich - Traditional Statistics vs Machine Learning](https://www.youtube.com/watch?v=ObbTLep4Hxo)
 
 ## Other
 
