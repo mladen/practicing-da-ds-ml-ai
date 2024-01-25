@@ -2,6 +2,8 @@
 
 - [Data Analysis, Data Science, Machine Learning](#data-analysis-data-science-machine-learning)
   - [Data Analysis](#data-analysis)
+    - [Data Analysis general (how to learn, advices etc.)](#data-analysis-general-how-to-learn-advices-etc)
+    - [Data Analysis Courses](#data-analysis-courses)
   - [Data Science](#data-science)
     - [Data Science general (how to learn, advices etc.)](#data-science-general-how-to-learn-advices-etc)
     - [Data Science courses](#data-science-courses)
@@ -23,6 +25,18 @@
   - [Other](#other)
 
 ## Data Analysis
+
+### Data Analysis general (how to learn, advices etc.)
+
+- [x] [Alex The Analyst - How I Would Become a Data Analyst if I had to Start Over in 2024 | 6 Month Plan](https://www.youtube.com/watch?v=K0-8G3DgjA4)
+  - Learn: SQL, Excel, Tableau
+  - Projects: 2 SQL projects, 1 Excel project, 1-2 Tableau project BUT create something in connection with the field you want to work in (e.g., healthcare, finance, marketing etc.)
+  - Make a good resume
+  - Apply for jobs, but not directly - work with multiple recruiters
+  - Be good at an interview :) (research a company, the position and questions they might ask you)
+  - If you have more time, learn some cloud tools (e.g., AWS, GCP, Azure) and Python
+
+### Data Analysis Courses
 
 - [ ] [Alex The Analyst (playlist) - Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
 
