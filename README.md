@@ -4,10 +4,14 @@
   - [Data Analysis](#data-analysis)
     - [Data Analysis general (how to learn, advices etc.)](#data-analysis-general-how-to-learn-advices-etc)
     - [Data Analysis Courses](#data-analysis-courses)
+    - [Data Analysis projects](#data-analysis-projects)
+    - [Data Analysts - what do they do?](#data-analysts---what-do-they-do)
   - [Data Science](#data-science)
     - [Data Science general (how to learn, advices etc.)](#data-science-general-how-to-learn-advices-etc)
     - [Data Science courses](#data-science-courses)
+    - [Data Science projects](#data-science-projects)
     - [Data Science Mathematics](#data-science-mathematics)
+    - [Data Scientists - what do they do?](#data-scientists---what-do-they-do)
   - [Machine Learning](#machine-learning)
     - [Machine learning general (how to learn, advices etc.)](#machine-learning-general-how-to-learn-advices-etc)
     - [Machine learning projects](#machine-learning-projects)
@@ -35,6 +39,14 @@
   - Apply for jobs, but not directly - work with multiple recruiters
   - Be good at an interview :) (research a company, the position and questions they might ask you)
   - If you have more time, learn some cloud tools (e.g., AWS, GCP, Azure) and Python
+- [ ] [Agatha - How I'd Become a Data Analyst (if i had to start over) in 2024](https://www.youtube.com/watch?v=dJA7k58zlA8)
+- [ ] [Agatha - I analyzed data for 4 hours everyday and it changed my life](https://www.youtube.com/watch?v=E8nynRXpX4A)
+- [ ] [Stefanovic - FASTEST Way to Become a Data Analyst and ACTUALLY Get a Job](https://www.youtube.com/watch?v=AYWLZ1lES6g)
+- [ ] [Luke Barousse - How I'd Learn to be a Data Analyst in 2024](https://www.youtube.com/watch?v=_gF2Mj1354M)
+- [ ] [Luke Barousse - How I Would Learn to be a Data Analyst (2 years ago)](https://www.youtube.com/watch?v=CC66RXeTn_4)
+- [ ] [Luke Barousse - Top Courses to Become a Data Analyst](https://www.youtube.com/watch?v=aqRxZSrJLEc)
+- [ ] [Josh Brindley - FASTEST Way to become a Data Analyst and ACTUALLY get a job [2023]](https://www.youtube.com/watch?v=08DAw16x63E)
+- [ ] [Learn with Lucas - Data Analyst Roadmap - FASTEST Way To a Data Analyst Job](https://www.youtube.com/watch?v=EV3wyVOhF3c)
 
 ### Data Analysis Courses
 
@@ -549,27 +561,39 @@
   - [ ] 69. Top 3 Tips on Using LinkedIn to Land a Job (198K views, 2 years ago, 6:50)
   - [ ] 70. How To Download Your Data Analyst Bootcamp Certification (Congrats!!) (25K views, 7 months ago, 1:41)
 
-- [Shashank Kalanithi - Day in the Life of a Data Analyst](https://www.youtube.com/watch?v=pKvWD0f18Pc)
+- [ ] [Shashank Kalanithi - Day in the Life of a Data Analyst (playlist)](https://www.youtube.com/playlist?list=PL-u09-6gP5ZNXNcED3EOQj0mMNIByVkZM)
 
-  - 1. Data Analyst - Python PCA Application w/ Streamlit (29K views, 2 years ago, 1:11:54)
-  - 2. Day in the Life of a Data Analyst - SurveyMonkey Data Transformation (3M views, 2 years ago, 1:17:14)
-  - 3. Day in the Life of a Data Analyst - Bing Maps API (20K views, 2 years ago, 29:00)
-  - 4. Day in the Life of a Data Analyst - SurveyMonkey Data Transformation (Using R) (18K views, 2 years ago, 41:55)
-  - 5. Data Analyst - PyCaret to Enhance Your Machine Learning (4K views, 2 years ago, 31:04)
-  - 6. Day in the Life of a Data Analyst - Google Data Studio (28K views, 2 years ago, 31:33)
-  - 7. Making Money (as a data analyst) - Webscraping with ScraperAPI (20K views, 2 years ago, 57:13)
-  - 8. Data Cleaning CHALLENGE (can you think of a better solution?) (131K views, 2 years ago, 22:41)
+  - [ ] Data Analyst - Python PCA Application w/ Streamlit (29K views, 2 years ago, 1:11:54)
+  - [ ] Day in the Life of a Data Analyst - SurveyMonkey Data Transformation (3M views, 2 years ago, 1:17:14)
+  - [ ] Day in the Life of a Data Analyst - Bing Maps API (20K views, 2 years ago, 29:00)
+  - [ ] Day in the Life of a Data Analyst - SurveyMonkey Data Transformation (Using R) (18K views, 2 years ago, 41:55)
+  - [ ] Data Analyst - PyCaret to Enhance Your Machine Learning (4K views, 2 years ago, 31:04)
+  - [ ] Day in the Life of a Data Analyst - Google Data Studio (28K views, 2 years ago, 31:33)
+  - [ ] Making Money (as a data analyst) - Webscraping with ScraperAPI (20K views, 2 years ago, 57:13)
+  - [ ] Data Cleaning CHALLENGE (can you think of a better solution?) (131K views, 2 years ago, 22:41)
 
 - [Shashank Kalanithi - A Data Crash Course | 100+ Key Data Concepts](https://www.youtube.com/watch?v=56INeYrTiyE)
+
+### Data Analysis projects
+
+- [ ] [Learn with Lucas - Data Analyst Portfolios Are Dead??](https://www.youtube.com/watch?v=Xq007H1MUkQ)
+- [ ] [Learn with Lucas - Top 5 Data Analyst Portfolios](https://www.youtube.com/watch?v=67Nu2FXtZVI)
+- [ ] [Learn with Lucas - The ONLY Data Analytics Portfolio You Need (GUARANTEED Job)](https://www.youtube.com/watch?v=ugF6AtWKxGs)
+- [ ] [Mér Winter - Data Analyst Portfolio Projects for 2024 | 3 projects to include in your resume](https://www.youtube.com/watch?v=loZ3MmskAvA)
+
+### Data Analysts - what do they do?
+
+- [Agatha - What I _actually_ do as a Data Analyst | salary, job, harsh reality](https://www.youtube.com/watch?v=t2VuELCQBHA)
 
 ## Data Science
 
 ### Data Science general (how to learn, advices etc.)
 
-- [Stefanovic - FASTEST Way to Become a Data Analyst and ACTUALLY Get a Job](https://www.youtube.com/watch?v=AYWLZ1lES6g)
-- [Luke Barousse - How I Would Learn to be a Data Analyst](https://www.youtube.com/watch?v=CC66RXeTn_4)
+- [Gregg Hogg - Data Science Has Changed - Here's What to Do](https://www.youtube.com/watch?v=gViODEWrT0g)
+- [Sundas Khalid - How to Become a Data Scientist in 2024? (complete roadmap)](https://www.youtube.com/watch?v=mrOIT6v8_0g)
+- [Tani Tech - HOW To BECOME A DATA SCIENTIST In 2024](https://www.youtube.com/watch?v=32xC8pZIPQI)
 - [Power Couple - FASTEST Way to Learn Data Science and ACTUALLY Get a Job](https://www.youtube.com/watch?v=AI1eKN1Eldg)
-- [Josh Brindley - FASTEST Way to become a Data Analyst and ACTUALLY get a job [2023]](https://www.youtube.com/watch?v=08DAw16x63E)
+- [Thu Vu data analytics - 👩🏻‍💻 How to learn Data Science FASTER](https://www.youtube.com/watch?v=lpSw_RAPmgc)
 - [DataNash - How I'd Learn Data Science In 2023 (If I Could Restart) | A Beginner's Roadmap](https://www.youtube.com/watch?v=Z79AqDouS-Y)
 - [Data Appreciation Society - How To Get a Job in MACHINE LEARNING without a DEGREE | 7 Best Tips](https://www.youtube.com/watch?v=ZPXh_-_iHR8) (the following URL's are mostly generated using the Copilot, but comments are added by me based on the info from this video)
   - Learn Data Exploration (data preprocessing, data cleaning, data visualization)
@@ -641,6 +665,7 @@
   - [ ] Data Analysis with Python for Excel Users - Full Course (1.1M views, 1 year ago, ~4h)
   - [ ] Data Visualization with D3 – Full Course for Beginners [2022] (233K views, 1 year ago, ~20h)
   - [ ] Data Science Job Interview – Full Mock Interview (248K views, 4 months ago, ~1.5h)
+- [ ] [Thu Vu data analytics - Top Courses to Learn Data Science Skills FAST!](https://www.youtube.com/watch?v=ho9vNL4MYZ8)
 - [Keith Galli (playlist) - Data Science](https://www.youtube.com/playlist?list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp)
   - [ ] 1. Comprehensive Python Beautiful Soup Web Scraping Tutorial! (find/find_all, css select, scrape table) (276K views, 3 years ago, 1:13:03)
   - [ ] 2. Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby) (2.8M views, 4 years ago, 1:00:27)
@@ -664,10 +689,21 @@
   - [ ] 20. Solving real-world data analysis problems with Python Pandas! (Lego dataset analysis) (72K views, 1 year ago, 43:37)
   - [ ] 21. Full Data Science Mock Interview! (featuring Kylie Ying) (9.8K views, 7 months ago, 1:27:34)
 
+### Data Science projects
+
+- [ ] [Ken Jee - 5 Impactful Data Science Projects For Your Portfolio](https://www.youtube.com/watch?v=QMP858aZcow)
+  - [ ] NASA
+    - Datasets for NASA missions, research, activities, and more
+    - Life science data (from NASA)
+
 ### Data Science Mathematics
 
 - [Data Nash - How Much Math Is REALLY In Data Science | What Math Do You Need For Data Science](https://www.youtube.com/watch?v=Fzfxn8U8aMw)
 - [Data Nash - Every Data Scientist Should Read This Book](https://www.youtube.com/watch?v=ZbGbqUdjc28)
+
+### Data Scientists - what do they do?
+
+- [Tani Tech - https://www.youtube.com/watch?v=iymwofogLCs](https://www.youtube.com/watch?v=iymwofogLCs)
 
 ## Machine Learning
 
