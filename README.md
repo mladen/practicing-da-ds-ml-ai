@@ -20,6 +20,7 @@
       - [Premium (Udemy, Coursera etc.)](#premium-udemy-coursera-etc)
       - [Free](#free)
   - [Artificial intelligence](#artificial-intelligence)
+    - [Artificial intelligence general (how to learn, advices etc.)](#artificial-intelligence-general-how-to-learn-advices-etc)
     - [Tutorials](#tutorials)
   - [Databases](#databases)
     - [Interactive SQL tutorials](#interactive-sql-tutorials)
@@ -39,6 +40,7 @@
   - Apply for jobs, but not directly - work with multiple recruiters
   - Be good at an interview :) (research a company, the position and questions they might ask you)
   - If you have more time, learn some cloud tools (e.g., AWS, GCP, Azure) and Python
+- [ ] [Alex The Analyst - How to Become a Data Analyst in 2023 (Completely FREE!)](https://www.youtube.com/watch?v=CUBfrdDwznQ)
 - [ ] [Agatha - How I'd Become a Data Analyst (if i had to start over) in 2024](https://www.youtube.com/watch?v=dJA7k58zlA8)
 - [ ] [Agatha - I analyzed data for 4 hours everyday and it changed my life](https://www.youtube.com/watch?v=E8nynRXpX4A)
 - [ ] [Stefanovic - FASTEST Way to Become a Data Analyst and ACTUALLY Get a Job](https://www.youtube.com/watch?v=AYWLZ1lES6g)
@@ -763,6 +765,10 @@
   - [ ] 17. Computer Vision and Perception for Self-Driving Cars (Deep Learning Course) (225K views, 1 year ago, 1:59:38)
 
 ## Artificial intelligence
+
+### Artificial intelligence general (how to learn, advices etc.)
+
+- [ ] [David Bombal - You need to learn AI in 2024! (And here is your roadmap)](https://www.youtube.com/watch?v=x1TqLcz_ug0)
 
 ### Tutorials
 
