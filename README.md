@@ -715,7 +715,112 @@
 
 ### Machine learning general (how to learn, advices etc.)
 
-- [Aleksa Gordić - The AI Epiphany - How I Got a Job at DeepMind as a Research Engineer (without a Machine Learning Degree!)](https://www.youtube.com/watch?v=SgaN-4po_cA)
+- [x] [Aleksa Gordić - The AI Epiphany - How I Got a Job at DeepMind as a Research Engineer (without a Machine Learning Degree!)](https://www.youtube.com/watch?v=SgaN-4po_cA)
+- [x] [Aleksa Gordić - How to get started with Machine Learning](https://www.youtube.com/watch?v=7q_OJvQQ7vY)
+  - Step 1: Learn to code in Python
+    - Go through the course [PythonLearn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
+    - Go through the book ["Automate the Boring Stuff with Python"](https://automatetheboringstuff.com/) by Al Sweigart
+      - If you don't want to read the book, you can watch the [Automate the Boring Stuff with Python Programming Course](https://www.youtube.com/watch?v=1F_OgqRuSdI)
+        - If you still feel your Python coding skills are weak go through the first 8 chapters of the book
+        - If you feel comfortable with Python coding, skip the first 8 chapters and go through the rest of the book
+        - That's all you need to know about Python. If you need something else, learn it on the fly by just Googling it!
+  - Step 2: Get a high-level understanding of what Machine Learning is (NOTE: Aleksa mentioned that he took 2.5 months, while working, to go through these 2 courses)
+    - Course 1: [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+    - Course 2: [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+    - Start working on projects and put them on GitHub + write a blog!
+      - [Kaggle](https://www.kaggle.com/)
+  - Step 3 (more practical):
+    - Course 1: [Deep Learning for Coders with fastai and PyTorch](https://course.fast.ai/)
+    - Course 2: [Deep Learning from the Foundations](https://course.fast.ai/part2)
+    - Start focusing on one Deep Learning Framework; Aleksa recommends PyTorch \
+      NOTE: The previous 3 steps can take up to 6 months if we're a beginner
+  - Step 4: Start reading research papers and implement a single paper
+    - List of places to find research papers (NOTE: Everything but the first link was added by the Copilot):
+      - [Arxiv](https://arxiv.org/) - a good place to start
+      - [OpenAI](https://openai.com/)
+      - [DeepMind](https://deepmind.com/)
+      - [Google AI](https://ai.google/)
+      - [Facebook AI](https://ai.facebook.com/)
+      - [Twitter AI](https://blog.twitter.com/engineering/en_us/topics/insights.html)
+      - [LinkedIn AI](https://engineering.linkedin.com/blog)
+      - [Microsoft Research](https://www.microsoft.com/en-us/research/)
+      - [Apple AI](https://machinelearning.apple.com/)
+      - [Amazon AI](https://www.amazon.science/)
+      - [Baidu AI](https://ai.baidu.com/)
+      - [Alibaba AI](https://damo.alibaba.com/)
+      - [Tencent AI](https://ai.tencent.com/)
+      - [Huawei AI](https://www.huawei.com/en/industry-insights/ai)
+      - [NVIDIA AI](https://www.nvidia.com/en-us/ai/)
+      - [Intel AI](https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html)
+      - [IBM Research](https://www.research.ibm.com/artificial-intelligence/)
+      - [MIT AI](https://www.csail.mit.edu/)
+      - [Stanford AI](https://ai.stanford.edu/)
+      - [Berkeley AI](https://bair.berkeley.edu/)
+      - [CMU AI](https://www.cmu.edu/scs/ai/)
+      - [Oxford AI](https://www.oxford.cs.ox.ac.uk/)\
+        NOTE: We're going to feel so dumb (I'm sure I will). Read the paper from start to end. It's OK if we don't understand everything on the first pass while reading the paper. Aleksa read about 20ish papers in Neural style transfer. We should read at least a couple of papers on a particular subject and then implement the paper.
+  - Step 5: Mathematics
+    - Resources:
+      - [Mathematics for Machine Learning by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong](https://mml-book.github.io/) (NOTE: It took Aleksa about 3-4 months to go through this book but he supplemented it with the resources below)
+      - [3Blue1Brown (playlist) - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+      - [3Blue1Brown (playlist) - Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+      - [Jake VanderPlas - Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+        - We should go through the 5th chapter of the book - it's about Machine Learning
+      - [Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning](https://www.deeplearningbook.org/), and https://github.com/janishar/mit-deep-learning-book-pdf \
+        NOTE: Maybe check the new book by Simon Prince called "Understanding Deep Learning". Check out this video [Machine Learning Street Talk - Deep Learning is a strange beast.](https://www.youtube.com/watch?v=sJXn4Cl4oww)
+  - BONUS TIPS:
+    - [Coursera - Barbara Oakley - Learning how to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+    - Don't learn tools for the sake of tooling. Learn them when you need them.
+      - Aleksa doesn't even use Pandas because he doesn't work with structured data but with imagery because he works in computer vision. He uses PyTorch and NumPy (this short sentence is added by the Copilot)
+    - Build your own stuff after going through the theory. Set the project goal - that's the "What" and a lot of "Hows" will follow up. If you need for example Pandas, to acomplish the project - learn it on the fly.
+    - FOCUS, FOCUS, FOCUS. In the beginning, focus on the single deep learning framework (use PyTorch). Focus on the single application area (computer vision, NLP or something else).
+    - Follow people on Twitter/X:
+      - [Yann LeCun](https://twitter.com/ylecun)
+      - [Geoffrey Hinton](https://twitter.com/geoffreyhinton)
+      - [Yoshua Bengio](https://twitter.com/yoshuabengio)
+      - [Ian Goodfellow](https://twitter.com/goodfellow_ian)
+      - [Andrej Karpathy](https://twitter.com/karpathy)
+      - [Andrew Ng](https://twitter.com/AndrewYNg)
+      - [François Chollet](https://twitter.com/fchollet)
+      - [Pieter Abbeel](https://twitter.com/pabbeel)
+      - [Jeremy Howard](https://twitter.com/jeremyphoward)
+      - [Rachel Thomas](https://twitter.com/math_rachel)
+      - [Sebastian Ruder](https://twitter.com/seb_ruder)
+      - [Sylvain Gugger](https://twitter.com/GuggerSylvain)
+      - [Thomas Wolf](https://twitter.com/Thom_Wolf)
+      - [Hugging Face](https://twitter.com/huggingface)
+      - [OpenAI](https://twitter.com/OpenAI)
+      - [DeepMind](https://twitter.com/DeepMind)
+      - [Google AI](https://twitter.com/GoogleAI)
+      - [Facebook AI](https://twitter.com/facebookai)
+      - [Twitter AI](https://twitter.com/TwitterAI)
+      - [LinkedIn AI](https://twitter.com/LinkedInAI)
+      - [Microsoft Research](https://twitter.com/MSFTResearch)
+      - [Apple AI](https://twitter.com/appleai)
+      - [Amazon AI](https://twitter.com/amazonai)
+      - [Baidu AI](https://twitter.com/BaiduResearch)
+      - [Alibaba AI](https://twitter.com/alibaba_cloud)
+      - [Tencent AI](https://twitter.com/TencentAI)
+      - [Huawei AI](https://twitter.com/HuaweiAI)
+      - [NVIDIA AI](https://twitter.com/NVIDIAAI)
+      - [Intel AI](https://twitter.com/IntelAI)
+      - [IBM Research](https://twitter.com/IBMResearch)
+      - [MIT AI](https://twitter.com/MIT_CSAIL)
+      - [Stanford AI](https://twitter.com/stanfordai)
+      - [Berkeley AI](https://twitter.com/berkeley_ai)
+      - [CMU AI](https://twitter.com/SCSatCMU)
+      - [Oxford AI](https://twitter.com/oxfordai)
+      - [Data Science Central](https://twitter.com/DataScienceCtrl)
+      - [Data Elixir](https://twitter.com/dataelixir)
+      - [Data Science Weekly](https://twitter.com/DataScienceCtrl)
+      - [Data Science Report](https://twitter.com/DataScienceCtrl)
+      - [Data Science 101](https://twitter.com/DataScienceCtrl)
+      - [Data Science Central](https://twitter.com/DataScienceCtrl)
+      - [Data Science Central - Jobs](https://twitter.com/DataScienceCtrl)
+      - [DataCamp](https://twitter.com/DataCamp)
+      - [DataCamp - Pandas Cheat Sheet](https://twitter.com/DataCamp)
+      - etc.
+    - Watch [Lex Friedman's podcast](https://www.youtube.com/@lexfridman)
 - [x] [Boris Meinardus - How I’d learn ML in 2024 (if I could start over)](https://www.youtube.com/watch?v=gUmagAluXpk)
   - [ ] 1. Learn Python
   - [ ] 2. Learn mathematics (high-school or entry-level college math; what's a derivate and how to compute it; what's a matrix and how the dot product works)
@@ -771,7 +876,7 @@
       Data loader is used to provide data in a preprocessed format. That way we can very consistently get a batch of data and just focus on the training logic. When implementing the dataset and data loader classes he recomments to use Jupyter Notebooks. That makes it very easy to save certain variables (like the path to the dataset) and visualize everything we need.\
       One final thing is if we are working on a reinforcement learning paper, the equivalent to implementing the dataset classes is setting up the gym environment.
     - Step 3: Start coding\
-      (Note: Perhaps our paper focuses more on a new training technique rather a new architecture).\
+      (NOTE: Perhaps our paper focuses more on a new training technique rather a new architecture).\
       Since we've highlighted the novel elements of the architecture and found existing implementations of modules we might need, his recommendation is to just **start coding(!!!)**. _Don't think too much about making it right the first time_. Start writing our torch.nn.module class and initialize all layers we might need. If they are larger, more complex models, we can directly start writing a function for those. [TODO: Check the mentioned example].
       - Use "Weights and Biases" to track our experiments. It's a tool that allows us to track our experiments and visualize them. It's a very powerful tool and it's free to use. (added by the Copilot)
 
@@ -796,7 +901,7 @@
 - [freeCodeCamp - Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A)
 - [freeCodeCamp (playlist) - Machine Learning](https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s)
   - [ ] 1. Machine Learning for Everybody – Full Course (1.7M views, 10 months ago, 3:53:53)
-    - Note: The course is using TensorFlow
+    - NOTE: The course is using TensorFlow
   - [ ] 2. TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial (2.7M views, 3 years ago, 6:52:08)
   - [ ] 3. Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning (1.9M views, 1 year ago, 2:32:40)
   - [ ] 4. No Black Box Machine Learning Course – Learn Without Libraries (280K views, 4 months ago, 3:51:31)
