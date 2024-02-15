@@ -757,6 +757,23 @@
 
 - [ ] [Smitha Kolan - Machine Learning Engineer - ABSOLUTE BEGINNER Machine Learning NLP Project (Tutorial)](https://www.youtube.com/watch?v=YkK_m2Ujq5Q)
 - [ ] [Boris Meinardus - How To Build A Machine Learning Portfolio in 2024](https://www.youtube.com/watch?v=iwtd2MK58sE)
+- [ ] [Boris Meinardus - This ML Project Gives You an Unfair Advantage](https://www.youtube.com/watch?v=kS-fTMj7XDA)
+  - Reimplementing a paper and recreating it's results
+    - Step 1: Read the paper
+      - Methodology: Use colored markers to highlight the important parts
+        - Color no. 1 (General understanding): We want to highlight the parts that are important for understanding the paper
+        - Color no. 2 (Implementation details): Actively highlight the parts relevant for the implementation.\
+          This includes things like used loss loss functions, used activation functions, used architectures, used datasets, used hyperparameters etc. When highlighting these parts, we can already start envisioning how we would start to implement the architecture and which other repositories we alredy know that have similar implementations that we can use for our own new implementation. Or we write down a list of common modules we need to look up existing implementations for. The idea is not to not to reinvent the wheel, but to use existing implementations and to understand how they work and how they can be adapted to our own needs.
+        - Color no. 3 (Datasets): Since we are not only reimplement the paper but also recreate results to actually verify whether we implemented the paper successfully, we need to train on the same datasets and evaluate on the same ones. Highlighting those should not too difficult, since the paper should already mention the datasets used and the evaluation metrics used.\
+          It might also be important to look for details about the compute that the authors used. If they used expensive compute, we might need to look for alternatives or we might need to look for ways to reduce the compute needed. This might be important for us, since we might not have access to the same compute as the authors of the paper. \
+          Tackle the datasets. That means - find the datasets used in the paper and download them.
+    - Step 2: Implementing the dataset and data loader classes (PyTorch).\
+      Data loader is used to provide data in a preprocessed format. That way we can very consistently get a batch of data and just focus on the training logic. When implementing the dataset and data loader classes he recomments to use Jupyter Notebooks. That makes it very easy to save certain variables (like the path to the dataset) and visualize everything we need.\
+      One final thing is if we are working on a reinforcement learning paper, the equivalent to implementing the dataset classes is setting up the gym environment.
+    - Step 3: Start coding\
+      (Note: Perhaps our paper focuses more on a new training technique rather a new architecture).\
+      Since we've highlighted the novel elements of the architecture and found existing implementations of modules we might need, his recommendation is to just **start coding(!!!)**. _Don't think too much about making it right the first time_. Start writing our torch.nn.module class and initialize all layers we might need. If they are larger, more complex models, we can directly start writing a function for those. [TODO: Check the mentioned example].
+      - Use "Weights and Biases" to track our experiments. It's a tool that allows us to track our experiments and visualize them. It's a very powerful tool and it's free to use. (added by the Copilot)
 
 ### Machine Learning basics
 
