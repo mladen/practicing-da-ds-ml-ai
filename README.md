@@ -35,7 +35,11 @@
 
 - [x] [Alex The Analyst - How I Would Become a Data Analyst if I had to Start Over in 2024 | 6 Month Plan](https://www.youtube.com/watch?v=K0-8G3DgjA4)
   - Learn: SQL, Excel, Tableau
-  - Projects: 2 SQL projects, 1 Excel project, 1-2 Tableau project BUT create something in connection with the field you want to work in (e.g., healthcare, finance, marketing etc.)
+  - Projects:
+    - 2 SQL projects,
+    - 1 Excel project,
+    - 1-2 Tableau project \
+      BUT _create something in connection with the field you want to work in_ (e.g., healthcare, finance, marketing etc.)
   - Make a good resume
   - Apply for jobs, but not directly - work with multiple recruiters
   - Be good at an interview :) (research a company, the position and questions they might ask you)
@@ -712,7 +716,36 @@
 ### Machine learning general (how to learn, advices etc.)
 
 - [Aleksa Gordić - The AI Epiphany - How I Got a Job at DeepMind as a Research Engineer (without a Machine Learning Degree!)](https://www.youtube.com/watch?v=SgaN-4po_cA)
-- [Boris Meinardus - How I’d learn ML in 2024 (if I could start over)](https://www.youtube.com/watch?v=gUmagAluXpk)
+- [x] [Boris Meinardus - How I’d learn ML in 2024 (if I could start over)](https://www.youtube.com/watch?v=gUmagAluXpk)
+  - [ ] 1. Learn Python
+  - [ ] 2. Learn mathematics (high-school or entry-level college math; what's a derivate and how to compute it; what's a matrix and how the dot product works)
+    - [ ] (for example) edX: HarvardX: Introduction to Probability
+    - [ ] (for example) edX: UTAustinX: Linear Algebra - Foundations to Frontiers
+    - [ ] (for example) Coursera: Matrix Algebra for Engineers
+    - [ ] Khan Academy (probably the best option for learning math; **it's free and it's very well structured**)
+    - [ ] Brilliant
+    - [ ] College (no way)
+    - [ ] learn the basics; later, if you need something just Google it or similar (this!)
+  - [ ] 3. ML developer stack
+    - [ ] Jupyter notebooks
+    - [ ] Pandas (tool for dealing with data in tabular format)
+    - [ ] NumPy (library for doing maths with matrices or arrays; can be used to implement mathematics we've learned previously, like doing the dot product between two matrices easily etc.)
+    - [ ] matplotlib (tool for visualizing data and graphs)
+  - [ ] 4. ML Courses (which will give me practical experience with ML concepts)
+    - [ ] Machine learning specialization by Andrew Ng
+      - [ ] SciKit learn, Tensorflow (but learn PyTorch instead)
+    - [ ] Andrej Karpathy's "Neural Networks: Zero to Hero"
+      - [ ] Implementing an NLP model, from the ground up
+      - [ ] Goes all the way up to a Transformer model
+      - [ ] Also, goes through all the mathematics of backpropagation etc.
+    - [ ] Deep learning specialization
+      - [ ] Focuses on implementing and training Neural networks
+      - [ ] Includes Hugging Face - Hugging Face has an NLP course on their website, with even more advanced concepts in NLP (if we're interested in NLP that is)
+  - [ ] 5. Projects
+    - [ ] Kaggle (work on challenges)
+      - [ ] start with simpler challenges
+      - [ ] eventually move to working on more complex projects (they also come with prize money; they require a lot of compute)
+    - [ ] Reimplementing a paper and recreating the results
 - [Boris Meinardus - 7 Mistakes Beginner ML Students Make Every Year](https://www.youtube.com/watch?v=Oz7r89YDMis)
 - [Boris Meinardus - This Simple RESUME got me 5 Machine Learning Interviews](https://www.youtube.com/watch?v=FpW8aiJPvts)
 - [Thu Vu data analytics - How I'd Learn AI (If I Had to Start Over)](https://www.youtube.com/watch?v=TR7AGmey1C8)
