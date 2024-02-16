@@ -3,14 +3,16 @@
 - [Data Analysis, Data Science, Machine Learning](#data-analysis-data-science-machine-learning)
   - [Data Analysis](#data-analysis)
     - [Data Analysis general (how to learn, advices etc.)](#data-analysis-general-how-to-learn-advices-etc)
-    - [Data Analysis Courses](#data-analysis-courses)
+    - [Data Analysis courses](#data-analysis-courses)
     - [Data Analysis projects](#data-analysis-projects)
+    - [Data Analysis books](#data-analysis-books)
     - [Data Analysts - what do they do?](#data-analysts---what-do-they-do)
   - [Data Science](#data-science)
     - [Data Science general (how to learn, advices etc.)](#data-science-general-how-to-learn-advices-etc)
     - [Data Science courses](#data-science-courses)
     - [Data Science projects](#data-science-projects)
-    - [Data Science Mathematics](#data-science-mathematics)
+    - [Data Science mathematics](#data-science-mathematics)
+    - [Data Science books](#data-science-books)
     - [Data Scientists - what do they do?](#data-scientists---what-do-they-do)
   - [Machine Learning](#machine-learning)
     - [Machine learning general (how to learn, advices etc.)](#machine-learning-general-how-to-learn-advices-etc)
@@ -19,9 +21,11 @@
     - [Machine learning courses](#machine-learning-courses)
       - [Premium (Udemy, Coursera etc.)](#premium-udemy-coursera-etc)
       - [Free](#free)
+    - [Machine learning books](#machine-learning-books)
   - [Artificial intelligence](#artificial-intelligence)
     - [Artificial intelligence general (how to learn, advices etc.)](#artificial-intelligence-general-how-to-learn-advices-etc)
     - [Tutorials](#tutorials)
+    - [Artificial intelligence books](#artificial-intelligence-books)
   - [Databases](#databases)
     - [Interactive SQL tutorials](#interactive-sql-tutorials)
   - [Platforms for learning](#platforms-for-learning)
@@ -54,7 +58,7 @@
 - [ ] [Josh Brindley - FASTEST Way to become a Data Analyst and ACTUALLY get a job [2023]](https://www.youtube.com/watch?v=08DAw16x63E)
 - [ ] [Learn with Lucas - Data Analyst Roadmap - FASTEST Way To a Data Analyst Job](https://www.youtube.com/watch?v=EV3wyVOhF3c)
 
-### Data Analysis Courses
+### Data Analysis courses
 
 - [ ] [Alex The Analyst (playlist) - Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
 
@@ -587,6 +591,10 @@
 - [ ] [Learn with Lucas - The ONLY Data Analytics Portfolio You Need (GUARANTEED Job)](https://www.youtube.com/watch?v=ugF6AtWKxGs)
 - [ ] [Mér Winter - Data Analyst Portfolio Projects for 2024 | 3 projects to include in your resume](https://www.youtube.com/watch?v=loZ3MmskAvA)
 
+### Data Analysis books
+
+- Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter - Wes McKinney (2022, 3rd edition, 579 pages, O'Reilly Media, 5.4 stars from 241 ratings on Amazon)
+
 ### Data Analysts - what do they do?
 
 - [Agatha - What I _actually_ do as a Data Analyst | salary, job, harsh reality](https://www.youtube.com/watch?v=t2VuELCQBHA)
@@ -702,10 +710,19 @@
     - Datasets for NASA missions, research, activities, and more
     - Life science data (from NASA)
 
-### Data Science Mathematics
+### Data Science mathematics
 
 - [Data Nash - How Much Math Is REALLY In Data Science | What Math Do You Need For Data Science](https://www.youtube.com/watch?v=Fzfxn8U8aMw)
 - [Data Nash - Every Data Scientist Should Read This Book](https://www.youtube.com/watch?v=ZbGbqUdjc28)
+
+### Data Science books
+
+- Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics - Thomas Nield (2022, 1st edition, 347 pages, O'Reilly Media, 4.5 stars from 231 ratings on Amazon)
+- Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python - Andrew Bruce, Peter Bruce (2020, 2nd edition, 360 pages, O'Reilly Media, 4.6 stars from 793 ratings on Amazon)
+- Becoming a Data Head: How to Think, Speak, and Understand Data Science, Statistics, and Machine Learning - Alex J. Gutman, Jordan Goldmeier (2021, 1st edition, 272 pages, Wiley, 4.6 stars from 311 ratings on Amazon)
+- The Art of Statistics: How to Learn from Data - David Spiegelhalter (2021, 1st edition, 448 pages, Basic Books, 4.6 stars from 3,508 ratings on Amazon)
+- Data Science from Scratch: First Principles with Python - Joel Grus (2019, 2nd edition, 403 pages, O'Reilly Media, 4.4 stars from 700 ratings on Amazon)
+- Think Like a Data Scientist: Tackle the data science process step-by-step - Brian Godsey (2017, 1st edition, 328 pages, Manning, 4.5 stars from 40 ratings on Amazon)
 
 ### Data Scientists - what do they do?
 
@@ -853,6 +870,7 @@
     - [ ] Reimplementing a paper and recreating the results
 - [Boris Meinardus - 7 Mistakes Beginner ML Students Make Every Year](https://www.youtube.com/watch?v=Oz7r89YDMis)
 - [Boris Meinardus - This Simple RESUME got me 5 Machine Learning Interviews](https://www.youtube.com/watch?v=FpW8aiJPvts)
+- [Boris Meinardus - What Is Self-Supervised Learning and Why Care?](https://www.youtube.com/watch?v=iGJ1XSkCyU0)
 - [Thu Vu data analytics - How I'd Learn AI (If I Had to Start Over)](https://www.youtube.com/watch?v=TR7AGmey1C8)
 - [Dave Ebbelaar - How I'd Learn AI in 2023 (if I could start over)](https://www.youtube.com/watch?v=h2FDq3agImI)
 - [Sahil & Sarra (former "The Power Couple") - How to learn AI and get RICH in the AI revolution](https://www.youtube.com/watch?v=mkRVHLQmsp4)
@@ -919,6 +937,12 @@
   - [ ] 16. AlphaZero from Scratch – Machine Learning Tutorial (95K views, 5 months ago, 4:07:54)
   - [ ] 17. Computer Vision and Perception for Self-Driving Cars (Deep Learning Course) (225K views, 1 year ago, 1:59:38)
 
+### Machine learning books
+
+- Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning - Chris Albon (2023, 2nd edition, 413 pages, O'Reilly Media)
+- Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python - Sebastian Raschka, Yuxi (Hayden) Liu (2022, 1st edition, 774 pages, Packt Publishing)
+- Introduction to Machine Learning with Python: A Guide for Data Scientists - Andreas C. Müller, Sarah Guido (2016, 1st edition, 398 pages, O'Reilly Media)
+
 ## Artificial intelligence
 
 ### Artificial intelligence general (how to learn, advices etc.)
@@ -938,6 +962,13 @@
 - [ ] 5. Create Custom GPTs | No code AI automation | OpenAI App Store | Complete Guide (189K views, 11 days ago, 26:59)
 - [ ] 6. Zapier AI Actions & GPTs | Tutorial, Examples and Automation Ideas 🔥 (50K views, 10 days ago, 30:52)
 - [ ] 7. OpenAI Assistants API to Build AI Agent SWARMS. Better than AutoGen? (30K views, 6 days ago, 34:52)
+
+### Artificial intelligence books
+
+- Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD - Jeremy Howard, Sylvain Gugger (2020, 1st edition, 621 pages, O'Reilly Media, 4.7 stars from 500 reviews on Amazon)
+- Inside Deep Learning: Math, Algorithms, Models - Edward Raff (2022, Annotated edition, 600 pages, Manning, 4.7 stars from 24 reviews on Amazon)
+- Deep Learning with Python, Second Edition - François Chollet (2021, 2nd edition, 504 pages, Manning, 4.7 stars from 345 reviews on Amazon)
+- Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools - Eli Stevens, Luca Antiga, Thomas Viehmann (2020, 1st edition, 520 pages, Manning, 4.4 stars from 119 reviews on Amazon)
 
 ## Databases
 
