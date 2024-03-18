@@ -8,7 +8,7 @@
     - [Data Analysis books](#data-analysis-books)
     - [Data Analysts - what do they do?](#data-analysts---what-do-they-do)
   - [Data Science](#data-science)
-    - [Data Science general (how to learn, advices etc.)](#data-science-general-how-to-learn-advices-etc)
+    - [Data Science general (roadmaps, how to learn, advices etc.)](#data-science-general-roadmaps-how-to-learn-advices-etc)
     - [Data Science courses](#data-science-courses)
     - [Data Science projects](#data-science-projects)
     - [Data Science mathematics](#data-science-mathematics)
@@ -17,6 +17,7 @@
   - [Machine Learning](#machine-learning)
     - [Machine learning general (how to learn, advices etc.)](#machine-learning-general-how-to-learn-advices-etc)
     - [Machine learning projects](#machine-learning-projects)
+      - [Diffusion models](#diffusion-models)
     - [Machine Learning basics](#machine-learning-basics)
     - [Machine learning courses](#machine-learning-courses)
       - [Premium (Udemy, Coursera etc.)](#premium-udemy-coursera-etc)
@@ -31,7 +32,8 @@
   - [Platforms for learning](#platforms-for-learning)
   - [Talks](#talks)
   - [Interviews](#interviews)
-  - [Other](#other)
+  - [YouTube channels](#youtube-channels)
+  - [Other links and playlists](#other-links-and-playlists)
 
 ## Data Analysis
 
@@ -590,6 +592,7 @@
 - [ ] [Learn with Lucas - Top 5 Data Analyst Portfolios](https://www.youtube.com/watch?v=67Nu2FXtZVI)
 - [ ] [Learn with Lucas - The ONLY Data Analytics Portfolio You Need (GUARANTEED Job)](https://www.youtube.com/watch?v=ugF6AtWKxGs)
 - [ ] [Mér Winter - Data Analyst Portfolio Projects for 2024 | 3 projects to include in your resume](https://www.youtube.com/watch?v=loZ3MmskAvA)
+- [ ] [Tech With Tim - Data Collection Project Ideas & Demos](https://www.youtube.com/watch?v=Wx-gL-Dt5rI)
 
 ### Data Analysis books
 
@@ -601,7 +604,7 @@
 
 ## Data Science
 
-### Data Science general (how to learn, advices etc.)
+### Data Science general (roadmaps, how to learn, advices etc.)
 
 - [Gregg Hogg - Data Science Has Changed - Here's What to Do](https://www.youtube.com/watch?v=gViODEWrT0g)
 - [Sundas Khalid - How to Become a Data Scientist in 2024? (complete roadmap)](https://www.youtube.com/watch?v=mrOIT6v8_0g)
@@ -609,6 +612,7 @@
 - [Power Couple - FASTEST Way to Learn Data Science and ACTUALLY Get a Job](https://www.youtube.com/watch?v=AI1eKN1Eldg)
 - [Thu Vu data analytics - 👩🏻‍💻 How to learn Data Science FASTER](https://www.youtube.com/watch?v=lpSw_RAPmgc)
 - [DataNash - How I'd Learn Data Science In 2023 (If I Could Restart) | A Beginner's Roadmap](https://www.youtube.com/watch?v=Z79AqDouS-Y)
+- [DataNash - How I'd Learn Data Science In 2024 (If I Could Restart) - The Ultimate Roadmap](https://www.youtube.com/watch?v=6DxBaphvap4)
 - [Data Appreciation Society - How To Get a Job in MACHINE LEARNING without a DEGREE | 7 Best Tips](https://www.youtube.com/watch?v=ZPXh_-_iHR8) (the following URL's are mostly generated using the Copilot, but comments are added by me based on the info from this video)
   - Learn Data Exploration (data preprocessing, data cleaning, data visualization)
     - [Article on data pre-processing/data exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
@@ -874,6 +878,7 @@
 - [Thu Vu data analytics - How I'd Learn AI (If I Had to Start Over)](https://www.youtube.com/watch?v=TR7AGmey1C8)
 - [Dave Ebbelaar - How I'd Learn AI in 2023 (if I could start over)](https://www.youtube.com/watch?v=h2FDq3agImI)
 - [Sahil & Sarra (former "The Power Couple") - How to learn AI and get RICH in the AI revolution](https://www.youtube.com/watch?v=mkRVHLQmsp4)
+- [LunarTech - Machine Learning Roadmap 2024 | How I'd Learn Machine Learning in 2024 (If I could start over)](https://www.youtube.com/watch?v=esGtjVV9gLI)
 - [Amazon Web Services - How I Started a Career in Machine Learning - No PHD Required](https://www.youtube.com/watch?v=cC8A5VmEVtg)
 
 ### Machine learning projects
@@ -897,6 +902,11 @@
       (NOTE: Perhaps our paper focuses more on a new training technique rather a new architecture).\
       Since we've highlighted the novel elements of the architecture and found existing implementations of modules we might need, his recommendation is to just **start coding(!!!)**. _Don't think too much about making it right the first time_. Start writing our torch.nn.module class and initialize all layers we might need. If they are larger, more complex models, we can directly start writing a function for those. [TODO: Check the mentioned example].
       - Use "Weights and Biases" to track our experiments. It's a tool that allows us to track our experiments and visualize them. It's a very powerful tool and it's free to use. (added by the Copilot)
+  - [ ] [Algorithmic Simplicity - Deriving the Transformer Neural Network from Scratch #SoME3](https://www.youtube.com/watch?v=kWLed8o5M2Y)
+
+#### Diffusion models
+
+- [ ] [DeepFindr - Diffusion models from scratch in PyTorch](https://www.youtube.com/watch?v=a4Yfz2FxXiY)
 
 ### Machine Learning basics
 
@@ -948,20 +958,20 @@
 ### Artificial intelligence general (how to learn, advices etc.)
 
 - [ ] [David Bombal - You need to learn AI in 2024! (And here is your roadmap)](https://www.youtube.com/watch?v=x1TqLcz_ug0)
+- [ ] [Machine Learning Street Talk - Deep Learning is a strange beast.](https://www.youtube.com/watch?v=sJXn4Cl4oww)
 
 ### Tutorials
 
-[freeCodeCamp - Harvard CS50’s Artificial Intelligence with Python – Full University Course](https://www.youtube.com/watch?v=5NgNicANyqM)
-
-[Wes Roth - AI Tutorials](https://www.youtube.com/playlist?list=PLb1th0f6y4XQQS7qU0hIAkafMU1Kdcsi0)
-
-- [ ] 1. Install Open Interpreter in 2 min | The free, open source CODE INTERPRETER! (24K views, 2 months ago, 8:31)
-- [ ] 2. AutoGen Tutorial 🔥 How to Build POWERFUL AI Agents (90K views, 1 month ago, 30:43)
-- [ ] 3. AI Plays Pokemon with Reinforcement Learning (14K views, 1 month ago, 14:25)
-- [ ] 4. OpenAI Playground Assistant is POWERFUL! Here's how to BUILD one... (45K views, 12 days ago, 8:42)
-- [ ] 5. Create Custom GPTs | No code AI automation | OpenAI App Store | Complete Guide (189K views, 11 days ago, 26:59)
-- [ ] 6. Zapier AI Actions & GPTs | Tutorial, Examples and Automation Ideas 🔥 (50K views, 10 days ago, 30:52)
-- [ ] 7. OpenAI Assistants API to Build AI Agent SWARMS. Better than AutoGen? (30K views, 6 days ago, 34:52)
+- [ ] [freeCodeCamp - Harvard CS50’s Artificial Intelligence with Python – Full University Course](https://www.youtube.com/watch?v=5NgNicANyqM)
+- [ ] [Wes Roth - AI Tutorials](https://www.youtube.com/playlist?list=PLb1th0f6y4XQQS7qU0hIAkafMU1Kdcsi0)
+  - [ ] 1. Install Open Interpreter in 2 min | The free, open source CODE INTERPRETER! (24K views, 2 months ago, 8:31)
+  - [ ] 2. AutoGen Tutorial 🔥 How to Build POWERFUL AI Agents (90K views, 1 month ago, 30:43)
+  - [ ] 3. AI Plays Pokemon with Reinforcement Learning (14K views, 1 month ago, 14:25)
+  - [ ] 4. OpenAI Playground Assistant is POWERFUL! Here's how to BUILD one... (45K views, 12 days ago, 8:42)
+  - [ ] 5. Create Custom GPTs | No code AI automation | OpenAI App Store | Complete Guide (189K views, 11 days ago, 26:59)
+  - [ ] 6. Zapier AI Actions & GPTs | Tutorial, Examples and Automation Ideas 🔥 (50K views, 10 days ago, 30:52)
+  - [ ] 7. OpenAI Assistants API to Build AI Agent SWARMS. Better than AutoGen? (30K views, 6 days ago, 34:52)
+- [ ] [Samson Zhang - Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://www.youtube.com/watch?v=w8yWXqWQYmU)
 
 ### Artificial intelligence books
 
@@ -1031,6 +1041,39 @@
 - [Lex Fridman - Charles Isbell and Michael Littman: Machine Learning and Education | Lex Fridman Podcast #148](https://www.youtube.com/watch?v=yzMVEbs8Zz0)
 - [IBE Munich - Traditional Statistics vs Machine Learning](https://www.youtube.com/watch?v=ObbTLep4Hxo)
 
-## Other
+## YouTube channels
+
+[Machine Learning Street Talk](http://www.youtube.com/@MachineLearningStreetTalk)
+[DeepFindr](http://www.youtube.com/@DeepFindr) - Machine Learning / Data Science topics
+[Make Data Useful](http://www.youtube.com/@MakeDataUseful) - Data science and analytics channel with a nice mix of Python tutorials and analysis.
+
+## Other links and playlists
 
 - https://ainowinstitute.org/publication/policy/compute-and-ai
+- [Institute of Computing for Climate Science (ICCS) - ICCS Summer School 2023](https://www.youtube.com/playlist?list=PL3PByZO-B6dPTXGKpJ2P8KlaXjiO26NPU)
+
+  > Recordings from ICCS's second annual summer school in July 2023.
+  >
+  > Recordings from ICCS's second annual summer school in July 2023.
+
+  - [ ] 1. Day 1 - Welcome to ICCS Summer School - Emily Shuckburgh, Colm-cille Caulfield, Marla Fuchs (180 views, 6 months ago, 14:32)
+  - [ ] 2. Day 2 - Using GitHub effectively for collaborative development (114 views, 6 months ago, 1:23:40)
+  - [ ] 3. Introduction to the 2023 ICCS Summer School Hackathon (66 views, 7 months ago, 4:15)
+  - [ ] 4. Day 1 - Keynote - Machine Learning for Climate Change and Environmental Sustainability (182 views, 6 months ago, 1:09:58)
+  - [ ] 5. Day 1 - David Kamm - 10 minute quick fire science talk (17 views, 6 months ago, 7:14)
+  - [ ] 6. Day 1 - Keren Jakhar - 10 minute quick fire science talk (31 views, 6 months ago, 9:14)
+  - [ ] 7. Day 1 - Simon Driscoll - 10 minute quick fire science talk (45 views, 6 months ago, 8:18)
+  - [ ] 8. Day 2 - Introduction to GPU Programming Teaching - Paul Richmond (3.1K views, 6 months ago, 1:26:05)
+  - [ ] 9. Day 2 - Keynote - Reproducibility and open software practises in climate research (335 views, 6 months ago, 51:48)
+  - [ ] 10. Day 2 - Panel on the importance of software engineering goodpractices in climate science (457 views, 6 months ago, 1:27:57)
+  - [ ] 11. Day 3 - Ivo Pasmans - 10 minute quick fire science talk (146 views, 6 months ago, 9:49)
+  - [ ] 12. Day 3 - Levin Rug - 10 minute quick fire science talk (109 views, 6 months ago, 8:44)
+  - [ ] 13. Day 3 - Introduction to Machine Learning with Pytorch Teaching - Part 1 of 2 - ANNs and exercises (174 views, 6 months ago, 2:01:15)
+  - [ ] 14. Day 3 - Probabilistic Machine Learning From Bayesian Linear Regression to Gaussian Processes (143 views, 6 months ago, 42:31)
+  - [ ] 15. Day 4 - Ira Shokar - 10 minute quick fire science talk (69 views, 6 months ago, 9:26)
+  - [ ] 16. Day 4 - Renato Barghiere - 10 minute quick fire science talk (81 views, 6 months ago, 7:44)
+  - [ ] 17. Day 4 - Advanced GPU programming optimisation - Paul Richmond (456 views, 6 months ago, 1:04:35)
+  - [ ] 18. Day 4 - Introduction to Machine Learning with Pytorch Teaching - Part 2 of 2 - CNNs, exercises, ... (262 views, 6 months ago, 2:24:27)
+  - [ ] 19. Day 4 - Communicating Science: You Can’t Win, But You’ve Got To Play - Joe Palca (111 views, 6 months ago, 33:30)
+  - [ ] 20. Day 4 - Hugging Face platform - Ben Orchard (272 views, 6 months ago, 1:25:24)
+  - [ ] 21. Day 4 - Kazem Ardaneh - 10 minute quick fire science talk (103 views, 6 months ago, 8:00)
