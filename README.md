@@ -911,6 +911,39 @@
 
 ### Machine Learning basics
 
+- [David MacKay - Information Theory, Inference, and Learning Algorithms](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
+
+  > Produced by: David MacKay (University of Cambridge)
+  > Author: David MacKay, University of Cambridge
+  >
+  > A series of sixteen lectures covering the core of the book "Information Theory, Inference, and Learning Algorithms" (Cambridge University Press, 2003, http://www.inference.eng.cam.ac.uk/mackay/itila/) which can be bought at Amazon (http://www.amazon.co.uk/exec/obidos/ASIN/0521642981/davidmackay0f-21), and is available free online (http://www.inference.eng.cam.ac.uk/mackay/itila/).
+  >
+  > A subset of these lectures used to constitute a Part III Physics course at the University of Cambridge. The high-resolution videos and all other course material can be downloaded from the Cambridge course website (http://www.inference.eng.cam.ac.uk/mackay/itprnn/).
+  >
+  > Snapshots of the lecture can be found here:
+  > http://www.inference.eng.cam.ac.uk/itprnn_lectures/
+
+  > These lectures are also available at
+  > http://videolectures.net/course_information_theory_pattern_recognition/
+  > (synchronized with snapshots and slides)
+
+  1. Lecture 1: Introduction to Information Theory (329K views, 9 years ago, 1:01:51)
+  2. Lecture 2: Entropy and Data Compression (I): Introduction to Compression, Inf.Theory and Entropy (90K views, 9 years ago,51:09)
+  3. Lecture 3: Entropy and Data Compression (II): Shannon's Source Coding Theorem, The Bent Coin Lottery (55K views, 9 years ago, 51:01)
+  4. Lecture 4: Entropy and Data Compression (III): Shannon's Source Coding Theorem, Symbol Codes (40K views, 9 years ago, 56:58)
+  5. Lecture 5: Entropy and Data Compression (IV): Shannon's Source Coding Theorem, Symbol Codes (33K views, 9 years ago, 1:02:48)
+  6. Lecture 6: Noisy Channel Coding (I): Inference and Information Measures for Noisy Channels (27K views, 9 years ago, 54:42)
+  7. Lecture 7: Noisy Channel Coding (II): The Capacity of a Noisy Channel (26K views, 9 years ago, 46:54)
+  8. Lecture 8: Noisy Channel Coding (III): The Noisy-Channel Coding Theorem (23K views, 9 years ago, 1:08:59)
+  9. Lecture 9: A Noisy Channel Coding Gem, And An Introduction To Bayesian Inference (I) (15K views, 9 years ago, 48:36)
+  10. Lecture 10: An Introduction To Bayesian Inference (II): Inference Of Parameters And Models (19K views, 9 years ago, 1:15:53)
+  11. Lecture 11: Approximating Probability Distributions (I): Clustering As An Example Inference Problem (15K views, 9 years ago, 56:56)
+  12. Lecture 12: Approximating Probability Distributions (II): Monte Carlo Methods (I) (22K views, 9 years ago, 1:23:48)
+  13. Lecture 13: Approximating Probability Distributions (III): Monte Carlo Methods (II): Slice Sampling (14K views, 9 years ago, 1:47:57)
+  14. Lecture 14: Approximating Probability Distributions (IV): Variational Methods (18K views, 9 years ago, 46:35)
+  15. Lecture 15: Data Modelling With Neural Networks (I): Feedforward Networks: The Capacity Of A Neuron (14K views, 9 years ago, 1:27:16)
+  16. Lecture 16: Data Modelling With Neural Networks (II): Content-Addressable Memories And State (10K views, 9 years ago, 1:36:33)
+
 - r2d3 - A visual introduction to machine learning (text)
   - [Part 1 - A Decision Tree (text)](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
   - [Part 2 - Model Tuning and the Bias-Variance Tradeoff (text)](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
