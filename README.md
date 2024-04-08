@@ -26,6 +26,7 @@
   - [Artificial intelligence](#artificial-intelligence)
     - [Artificial intelligence general (how to learn, advices etc.)](#artificial-intelligence-general-how-to-learn-advices-etc)
     - [Tutorials](#tutorials)
+    - [Artificial intelligence articles](#artificial-intelligence-articles)
     - [Artificial intelligence books](#artificial-intelligence-books)
   - [Databases](#databases)
     - [Interactive SQL tutorials](#interactive-sql-tutorials)
@@ -959,6 +960,8 @@
 
 - [ ] [David Bombal - You need to learn AI in 2024! (And here is your roadmap)](https://www.youtube.com/watch?v=x1TqLcz_ug0)
 - [ ] [Machine Learning Street Talk - Deep Learning is a strange beast.](https://www.youtube.com/watch?v=sJXn4Cl4oww)
+- [ ] [Jay Shah - Best resources to remain updated to Machine Learning Research | Siddha Ganju, @NVIDIA](https://www.youtube.com/watch?v=qBYsrfKq4sU)
+- [ ] [deeplizard - CUDA Explained - Why Deep Learning uses GPUs](https://www.youtube.com/watch?v=6stDhEA0wFQ)
 
 ### Tutorials
 
@@ -972,6 +975,10 @@
   - [ ] 6. Zapier AI Actions & GPTs | Tutorial, Examples and Automation Ideas 🔥 (50K views, 10 days ago, 30:52)
   - [ ] 7. OpenAI Assistants API to Build AI Agent SWARMS. Better than AutoGen? (30K views, 6 days ago, 34:52)
 - [ ] [Samson Zhang - Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://www.youtube.com/watch?v=w8yWXqWQYmU)
+
+### Artificial intelligence articles
+
+- [WaitButWhy - The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 
 ### Artificial intelligence books
 
@@ -1031,6 +1038,7 @@
 ## Talks
 
 - [TEDxTalks - Neuroscience and Artificial Intelligence Need Each Other | Marvin Chun | TEDxKFAS](https://www.youtube.com/watch?v=97iYdJE9mQ4)
+- [WeAreDevelopers - Deep Learning for Mobile devices—Siddha Ganju](https://www.youtube.com/watch?v=fKhH4ftlXDo)
 
 ## Interviews
 
@@ -1040,12 +1048,15 @@
 - [Weights & Biases - Scaling LLMs and Accelerating Adoption: Interview with Aidan Gomez](https://www.youtube.com/watch?v=sD24pZh7pmQ)
 - [Lex Fridman - Charles Isbell and Michael Littman: Machine Learning and Education | Lex Fridman Podcast #148](https://www.youtube.com/watch?v=yzMVEbs8Zz0)
 - [IBE Munich - Traditional Statistics vs Machine Learning](https://www.youtube.com/watch?v=ObbTLep4Hxo)
+- [Jay Shah - Algorithmic Reasoning, Graph Neural Nets, AGI and Tips to researchers | Petar Veličković](https://www.youtube.com/watch?v=oNEE7jKYjc4)
+- [Jay Shah - Siddha Ganju, Self-Driving Architect @NVIDIA | @ForbesBreakingNews](https://www.youtube.com/watch?v=UO0RLmQTUzc)
 
 ## YouTube channels
 
-[Machine Learning Street Talk](http://www.youtube.com/@MachineLearningStreetTalk)
-[DeepFindr](http://www.youtube.com/@DeepFindr) - Machine Learning / Data Science topics
-[Make Data Useful](http://www.youtube.com/@MakeDataUseful) - Data science and analytics channel with a nice mix of Python tutorials and analysis.
+- [deeplizard](twitter.com/deeplizard) - ML + DL + AI tutorials, AI art tutorials, NLP tutorials etc.
+- [Machine Learning Street Talk](http://www.youtube.com/@MachineLearningStreetTalk)
+- [DeepFindr](http://www.youtube.com/@DeepFindr) - Machine Learning / Data Science topics
+- [Make Data Useful](http://www.youtube.com/@MakeDataUseful) - Data science and analytics channel with a nice mix of Python tutorials and analysis.
 
 ## Other links and playlists
 
