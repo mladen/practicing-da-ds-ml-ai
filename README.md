@@ -23,9 +23,12 @@
       - [Premium (Udemy, Coursera etc.)](#premium-udemy-coursera-etc)
       - [Free](#free)
     - [Machine learning books](#machine-learning-books)
+  - [Deep Learning](#deep-learning)
+    - [Tutorials](#tutorials)
   - [Artificial intelligence](#artificial-intelligence)
     - [Artificial intelligence general (how to learn, advices etc.)](#artificial-intelligence-general-how-to-learn-advices-etc)
-    - [Tutorials](#tutorials)
+    - [Tutorials](#tutorials-1)
+    - [AI mathematics](#ai-mathematics)
     - [Artificial intelligence articles](#artificial-intelligence-articles)
     - [Artificial intelligence books](#artificial-intelligence-books)
   - [Databases](#databases)
@@ -719,6 +722,17 @@
 
 - [Data Nash - How Much Math Is REALLY In Data Science | What Math Do You Need For Data Science](https://www.youtube.com/watch?v=Fzfxn8U8aMw)
 - [Data Nash - Every Data Scientist Should Read This Book](https://www.youtube.com/watch?v=ZbGbqUdjc28)
+- [metacodeM - ](https://www.youtube.com/playlist?list=PLeBDUHf7kK3i2zX5o_7NfkxLSb81lrpTr)
+  - [ ] 1. Basic Statistics 1 by Data Scientist [2-hour Full Course] (1.6K views, 10 days ago, 2:12:09)
+  - [ ] 2. Statistics for Data Science Course [Part 1: Categorical and Quantitative Data] (1.6K views, 4 weeks ago, 13:27)
+  - [ ] 3. Statistics for Data Science Course [Part 2: Mean, Median, and Mode] (298 views, 3 weeks ago, 17:57)
+  - [ ] 4. Statistics for Data Science Course [Part 3: Variance and Standard Deviation] (392 views, 3 weeks ago, 11:19)
+  - [ ] 5. Statistics for Data Science Course [Part 4 : Shape and Correlation] (345 views, 3 weeks ago, 15:17)
+  - [ ] 6. Basic Statistics by Data Scientist [Part 5 : Probability] (466 views, 2 weeks ago, 14:57)
+  - [ ] 7. Basic Statistics by Data Scientist [Part 6 : Conditional Probability] (357 views, 2 weeks ago, 17:25)
+  - [ ] 8. Basic Statistics by Data Scientist [Part 7 : Bayes' Theorem] (1.2K views, 2 weeks ago, 16:29)
+  - [ ] 9. Basic Statistics by Data Scientist [Part 8 : Random Variables] (458 views, 13 days ago, 11:52)
+  - [ ] 10. Basic Statistics by Data Scientist [Part 9 : Probability Density Function] (253 views, 11 days ago, 13:31)
 
 ### Data Science books
 
@@ -957,11 +971,11 @@
 
 #### Free
 
-- [Jeremy Howard - A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU)
-- [Programming with Mosh - Python Machine Learning Tutorial (Data Science)](https://www.youtube.com/watch?v=7eh4d6sabA0)
-- [Eye On AI - Why Attention is Crucial in AI](https://www.youtube.com/shorts/Knm8iDBL1hg)
-- [freeCodeCamp - Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A)
-- [freeCodeCamp (playlist) - Machine Learning](https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s)
+- [ ] [Jeremy Howard - A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+- [ ] [Programming with Mosh - Python Machine Learning Tutorial (Data Science)](https://www.youtube.com/watch?v=7eh4d6sabA0)
+- [ ] [Eye On AI - Why Attention is Crucial in AI](https://www.youtube.com/shorts/Knm8iDBL1hg)
+- [ ] [freeCodeCamp - Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A)
+- [ ] [freeCodeCamp (playlist) - Machine Learning](https://www.youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s)
   - [ ] 1. Machine Learning for Everybody – Full Course (1.7M views, 10 months ago, 3:53:53)
     - NOTE: The course is using TensorFlow
   - [ ] 2. TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial (2.7M views, 3 years ago, 6:52:08)
@@ -987,6 +1001,14 @@
 - Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python - Sebastian Raschka, Yuxi (Hayden) Liu (2022, 1st edition, 774 pages, Packt Publishing)
 - Introduction to Machine Learning with Python: A Guide for Data Scientists - Andreas C. Müller, Sarah Guido (2016, 1st edition, 398 pages, O'Reilly Media)
 
+## Deep Learning
+
+### Tutorials
+
+- [ ] [metacodeM (playlist) - Deep Learning](https://www.youtube.com/playlist?list=PLeBDUHf7kK3jSReUCxZWf0YmDCIFSPgwJ)
+  - [ ] 1. What are ML and DL?ㅣChapter 1. Deep learning (809 views, 7 days ago, 16:28)
+  - [ ] 2. Differences between ML and DLㅣChapter 2. Deep learning (7.8K views, 5 days ago, 17:43)
+
 ## Artificial intelligence
 
 ### Artificial intelligence general (how to learn, advices etc.)
@@ -1008,6 +1030,21 @@
   - [ ] 6. Zapier AI Actions & GPTs | Tutorial, Examples and Automation Ideas 🔥 (50K views, 10 days ago, 30:52)
   - [ ] 7. OpenAI Assistants API to Build AI Agent SWARMS. Better than AutoGen? (30K views, 6 days ago, 34:52)
 - [ ] [Samson Zhang - Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://www.youtube.com/watch?v=w8yWXqWQYmU)
+
+### AI mathematics
+
+- [ ] [metacodeM - Linear Algebra](https://www.youtube.com/playlist?list=PLeBDUHf7kK3jijoWOtjrJTQIvubf9v8nM)
+  - [ ] 1. Linear Algebra Tutorial by PhD in AIㅣ2-hour Full Course(74K views, 4 weeks ago, 2:07:26)
+  - [ ] 2. Linear Algebra Tutorial for AI [ Part 1: Dimensions ](1.7K views, 1 month ago, 16:19)
+  - [ ] 3. Linear Algebra Tutorial for AI [ Part 2: Linear Independence and Rank ](375 views, 1 month ago, 15:27)
+  - [ ] 4. Linear Algebra Tutorial for AI [ Part 3: Matrix as Linear Operator ](317 views, 1 month ago, 16:06)
+  - [ ] 5. Linear Algebra Tutorial for AI [ Part 4: Application in Neural Networks ](696 views, 1 month ago, 12:39)
+  - [ ] 6. Linear Algebra Tutorial for AI [ Part 5: Determinant of a Matrix ](212 views, 1 month ago, 13:33)
+  - [ ] 7. Inverse Matrix and Dot ProductㅣLinear Algebra for AI [ Part 6 ](264 views, 1 month ago, 15:31)
+  - [ ] 8. Eigenvectors and Eigenvalues IㅣLinear Algebra for AI [ Part 7 ](446 views, 1 month ago, 10:12)
+  - [ ] 9. Eigenvectors and Eigenvalues II [ Linear Algebra for AI - Part 8 ](537 views, 1 month ago, 13:15)
+  - [ ] 10. Principal Component Analysis (PCA) [ Linear Algebra for AI - Part 9 ](277 views, 1 month ago, 14:30)
+  - [ ] 11. Linear Algebra Review in 10-min (feat. PhD in AI)(328 views, 3 days ago, 10:35)
 
 ### Artificial intelligence articles
 
@@ -1085,6 +1122,15 @@
 - [Jay Shah - Siddha Ganju, Self-Driving Architect @NVIDIA | @ForbesBreakingNews](https://www.youtube.com/watch?v=UO0RLmQTUzc)
 
 ## YouTube channels
+
+- [metacodeM](http://www.youtube.com/@metacodeM) - Machine Learning, Data Science, Python, and more
+  > Whether you're exploring the realms of AI, data science, machine learning, deep learning, LLM, or statistics, our expert instructors, who are either actively working in tech fields or hold Ph.D.s in their domains, are here to guide you for free.
+  >
+  > Our goal is to empower you with the knowledge and skills needed to thrive in the dynamic world of rapidly evolving technologies.
+  >
+  > Additionally, we're excited to announce the upcoming launch of our community website, where you can engage with fellow learners, stay updated on industry trends, and access exclusive resources related to Industry 4.0.
+
+We’ll also offer comprehensive courses designed to provide you with in-depth learning experiences. Upon completion, you'll have the opportunity to earn certificates, validating your expertise.
 
 - [deeplizard](twitter.com/deeplizard) - ML + DL + AI tutorials, AI art tutorials, NLP tutorials etc.
 - [Machine Learning Street Talk](http://www.youtube.com/@MachineLearningStreetTalk)
