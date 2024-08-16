@@ -1106,8 +1106,14 @@
   - [ ] 6. Zapier AI Actions & GPTs | Tutorial, Examples and Automation Ideas 🔥 (50K views, 10 days ago, 30:52)
   - [ ] 7. OpenAI Assistants API to Build AI Agent SWARMS. Better than AutoGen? (30K views, 6 days ago, 34:52)
 - [ ] [Samson Zhang - Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://www.youtube.com/watch?v=w8yWXqWQYmU)
-
-### AI mathematics
+- [ ] [Akhil Sharma - LLM Concepts](https://www.youtube.com/playlist?list=PL5dTjWUk_cPZxyZuZdl8S0g4tbh-GL2Ro)
+  - [ ] 1. What Are Transformers - LLM Concepts ( EP 1 ) #llm #ai #ml #transformers #gpt #gpt4 #gpt3 (750 views • 1 month ago, 12:49)
+  - [ ] 2. What is Parameter Offloading? - LLM Concepts ( EP 2 ) #llm #ai #artificialintelligence (483 views • 1 month ago, 6:42)
+  - [ ] 3. What is Quantization? - LLM Concepts ( EP - 3 ) #quantization #llm #ml #ai #artificialintelligence (298 views • 1 month ago, 6:28)
+  - [ ] 4. What is Post Training Quantization - GGUF, AWQ, GPTQ - LLM Concepts ( EP - 4 ) #ai #llm #genai #ml (360 views • 1 month ago, 6:35)
+  - [ ] 5. What is LLM Sharding - LLM Concepts ( EP - 5 ) #llm #artificialintelligence #largelanguagemodels (676 views • 1 month ago, 6:00)
+  - [ ] 6. What is Attention? - LLM Concepts ( EP - 6 ) #llm #largelanguagemodels #generativeai #genai #ai #ml (365 views • 1 month ago, 5:00)
+  - [ ] 7. What Is Finetuning? - LLM Concepts ( EP - 7 ) #llm #largelanguagemodels #artificialintelligence (286 views • 8 days ago, 9:41)
 
 - [ ] [metacodeM - Linear Algebra](https://www.youtube.com/playlist?list=PLeBDUHf7kK3jijoWOtjrJTQIvubf9v8nM)
   - [ ] 1. Linear Algebra Tutorial by PhD in AIㅣ2-hour Full Course(74K views, 4 weeks ago, 2:07:26)
