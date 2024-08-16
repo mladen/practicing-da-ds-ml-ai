@@ -28,7 +28,7 @@
   - [Artificial intelligence](#artificial-intelligence)
     - [Artificial intelligence general (how to learn, advices etc.)](#artificial-intelligence-general-how-to-learn-advices-etc)
     - [Tutorials](#tutorials-1)
-    - [AI mathematics](#ai-mathematics)
+    - [Mathematics for AI](#mathematics-for-ai)
     - [Artificial intelligence articles](#artificial-intelligence-articles)
     - [Artificial intelligence books](#artificial-intelligence-books)
   - [Databases](#databases)
@@ -754,20 +754,20 @@
 - [x] [Aleksa Gordić - The AI Epiphany - How I Got a Job at DeepMind as a Research Engineer (without a Machine Learning Degree!)](https://www.youtube.com/watch?v=SgaN-4po_cA)
 - [x] [Aleksa Gordić - How to get started with Machine Learning](https://www.youtube.com/watch?v=7q_OJvQQ7vY)
   - Step 1: Learn to code in Python
-    - Go through the course [PythonLearn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
-    - Go through the book ["Automate the Boring Stuff with Python"](https://automatetheboringstuff.com/) by Al Sweigart
-      - If you don't want to read the book, you can watch the [Automate the Boring Stuff with Python Programming Course](https://www.youtube.com/watch?v=1F_OgqRuSdI)
+    - [ ] Go through the course [Python - Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
+    - [ ] Go through the book ["Automate the Boring Stuff with Python"](https://automatetheboringstuff.com/) by Al Sweigart
+      - [ ] If you don't want to read the book, you can watch the [Automate the Boring Stuff with Python Programming Course](https://www.youtube.com/watch?v=1F_OgqRuSdI)
         - If you still feel your Python coding skills are weak go through the first 8 chapters of the book
         - If you feel comfortable with Python coding, skip the first 8 chapters and go through the rest of the book
         - That's all you need to know about Python. If you need something else, learn it on the fly by just Googling it!
   - Step 2: Get a high-level understanding of what Machine Learning is (NOTE: Aleksa mentioned that he took 2.5 months, while working, to go through these 2 courses)
-    - Course 1: [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
-    - Course 2: [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+    -  [ ] Course 1: [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+    - [ ] Course 2: [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
     - Start working on projects and put them on GitHub + write a blog!
       - [Kaggle](https://www.kaggle.com/)
   - Step 3 (more practical):
-    - Course 1: [Deep Learning for Coders with fastai and PyTorch](https://course.fast.ai/)
-    - Course 2: [Deep Learning from the Foundations](https://course.fast.ai/part2)
+    - [ ] Course 1: [Deep Learning for Coders with fastai and PyTorch](https://course.fast.ai/)
+    - [ ] Course 2: [Deep Learning from the Foundations](https://course.fast.ai/part2)
     - Start focusing on one Deep Learning Framework; Aleksa recommends PyTorch \
       NOTE: The previous 3 steps can take up to 6 months if we're a beginner
   - Step 4: Start reading research papers and implement a single paper
@@ -1114,6 +1114,8 @@
   - [ ] 5. What is LLM Sharding - LLM Concepts ( EP - 5 ) #llm #artificialintelligence #largelanguagemodels (676 views • 1 month ago, 6:00)
   - [ ] 6. What is Attention? - LLM Concepts ( EP - 6 ) #llm #largelanguagemodels #generativeai #genai #ai #ml (365 views • 1 month ago, 5:00)
   - [ ] 7. What Is Finetuning? - LLM Concepts ( EP - 7 ) #llm #largelanguagemodels #artificialintelligence (286 views • 8 days ago, 9:41)
+
+### Mathematics for AI
 
 - [ ] [metacodeM - Linear Algebra](https://www.youtube.com/playlist?list=PLeBDUHf7kK3jijoWOtjrJTQIvubf9v8nM)
   - [ ] 1. Linear Algebra Tutorial by PhD in AIㅣ2-hour Full Course(74K views, 4 weeks ago, 2:07:26)
