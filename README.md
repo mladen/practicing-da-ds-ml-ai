@@ -28,6 +28,8 @@
   - [Artificial intelligence](#artificial-intelligence)
     - [Artificial intelligence general (how to learn, advices etc.)](#artificial-intelligence-general-how-to-learn-advices-etc)
     - [Tutorials](#tutorials-1)
+    - [Fine-tuning](#fine-tuning)
+      - [Fine-tuning projects](#fine-tuning-projects)
     - [Mathematics for AI](#mathematics-for-ai)
     - [Artificial intelligence articles](#artificial-intelligence-articles)
     - [Artificial intelligence books](#artificial-intelligence-books)
@@ -38,6 +40,7 @@
   - [Interviews](#interviews)
   - [YouTube channels](#youtube-channels)
   - [Other links and playlists](#other-links-and-playlists)
+    - [Interesting videos involving AI](#interesting-videos-involving-ai)
 
 ## Data Analysis
 
@@ -1115,6 +1118,18 @@
   - [ ] 6. What is Attention? - LLM Concepts ( EP - 6 ) #llm #largelanguagemodels #generativeai #genai #ai #ml (365 views • 1 month ago, 5:00)
   - [ ] 7. What Is Finetuning? - LLM Concepts ( EP - 7 ) #llm #largelanguagemodels #artificialintelligence (286 views • 8 days ago, 9:41)
 
+### Fine-tuning
+
+- [ ] [Hamel Husain - Why Fine Tuning is Dead w/Emmanuel Ameisen](https://www.youtube.com/watch?v=h1c_jmk97Ss)
+- [ ] [Hamel Husain - Deploying Fine-Tuned Models](https://www.youtube.com/watch?v=GzEcyBykkdo)
+- [ ] [Prompt Engineering - LLAMA-3.1: EASIET WAY To FINE-TUNE ON YOUR DATA](https://www.youtube.com/watch?v=rpAtVIZB72U)
+- [ ] [Entry Point AI - LoRA & QLoRA Fine-tuning Explained In-Depth](https://www.youtube.com/watch?v=t1caDsMzWBk)
+#### Fine-tuning projects
+
+- [ ] [Hugging Face - Fine-tuning a model on a text classification task](https://huggingface.co/transformers/custom_datasets.html#fine-tuning-a-model-on-a-text-classification-task)
+- [ ] [Venelin Valkov - Fine-tuning Tiny LLM on Your Data | Sentiment Analysis with TinyLlama and LoRA on a Single GPU](https://www.youtube.com/watch?v=_KPEoCSKHcU)
+- [ ] [Venelin Valkov - Fine-Tuning Llama 3 on a Custom Dataset: Training LLM for a RAG Q&A Use Case on a Single GPU](https://www.youtube.com/watch?v=0XPZlR3_GgI)
+- [ ] [Shaw Talebi - QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code)](https://www.youtube.com/watch?v=XpoKB3usmKc)
 ### Mathematics for AI
 
 - [ ] [metacodeM - Linear Algebra](https://www.youtube.com/playlist?list=PLeBDUHf7kK3jijoWOtjrJTQIvubf9v8nM)
@@ -1251,3 +1266,7 @@ We’ll also offer comprehensive courses designed to provide you with in-depth l
   - [ ] 19. Day 4 - Communicating Science: You Can’t Win, But You’ve Got To Play - Joe Palca (111 views, 6 months ago, 33:30)
   - [ ] 20. Day 4 - Hugging Face platform - Ben Orchard (272 views, 6 months ago, 1:25:24)
   - [ ] 21. Day 4 - Kazem Ardaneh - 10 minute quick fire science talk (103 views, 6 months ago, 8:00)
+
+### Interesting videos involving AI
+
+- [Jon Oleksiuk - Does God Exist? AI debates Atheist vs. Believer](https://www.youtube.com/watch?v=EMyAGuHnDHk)
