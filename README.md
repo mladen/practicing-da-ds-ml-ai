@@ -1102,6 +1102,8 @@
 - [ ] [Machine Learning Street Talk - Deep Learning is a strange beast.](https://www.youtube.com/watch?v=sJXn4Cl4oww)
 - [ ] [Jay Shah - Best resources to remain updated to Machine Learning Research | Siddha Ganju, @NVIDIA](https://www.youtube.com/watch?v=qBYsrfKq4sU)
 - [ ] [deeplizard - CUDA Explained - Why Deep Learning uses GPUs](https://www.youtube.com/watch?v=6stDhEA0wFQ)
+- [ ] [Thu Vu data science - How I'd Learn AI (If I Had to Start Over)](https://www.youtube.com/watch?v=TR7AGmey1C8)
+
 
 ### Tutorials
 
