@@ -1003,6 +1003,19 @@
   - [ ] 15. Machine Learning Course for Beginners (1.3M views, 1 year ago, 9:52:19)
   - [ ] 16. AlphaZero from Scratch – Machine Learning Tutorial (95K views, 5 months ago, 4:07:54)
   - [ ] 17. Computer Vision and Perception for Self-Driving Cars (Deep Learning Course) (225K views, 1 year ago, 1:59:38)
+- [ ] [Assembly AI (playlist) - Machine Learning From Scratch Full course](https://www.youtube.com/playlist?list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd)
+  - [ ] 1. Machine Learning From Scratch Full course (50K views, 2 years ago, 1:05)
+  - [ ] 2. How to implement KNN from scratch with Python (88K views, 2 years ago, 9:24)
+  - [ ] 3. How to implement Linear Regression from scratch with Python (54K views, 2 years ago, 17:03)
+  - [ ] 4. How to implement Logistic Regression from scratch with Python (68K views, 2 years ago, 14:04)
+  - [ ] 5. How to implement Decision Trees from scratch with Python (65K views, 2 years ago, 37:24)
+  - [ ] 6. How to implement Random Forest from scratch with Python (26K views, 2 years ago, 13:31)
+  - [ ] 7. How to implement Naive Bayes from scratch with Python (28K views, 2 years ago, 14:37)
+  - [ ] 8. How to implement PCA (Principal Component Analysis) from scratch with Python (16K views, 2 years ago, 12:16)
+  - [ ] 9. How to implement Perceptron from scratch with Python (34K views, 2 years ago, 13:46)
+  - [ ] 10. How to implement SVM (Support Vector Machine) from scratch with Python (28K views, 2 years ago, 14:45)
+  - [ ] 11. How to implement K-Means from scratch with Python (15K views, 2 years ago, 23:42)
+
 
 ### Machine learning books
 
