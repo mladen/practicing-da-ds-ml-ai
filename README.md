@@ -1132,12 +1132,18 @@
 - [ ] [Hamel Husain - Deploying Fine-Tuned Models](https://www.youtube.com/watch?v=GzEcyBykkdo)
 - [ ] [Prompt Engineering - LLAMA-3.1: EASIET WAY To FINE-TUNE ON YOUR DATA](https://www.youtube.com/watch?v=rpAtVIZB72U)
 - [ ] [Entry Point AI - LoRA & QLoRA Fine-tuning Explained In-Depth](https://www.youtube.com/watch?v=t1caDsMzWBk)
+
 #### Fine-tuning projects
 
+- https://www.mlexpert.io/bootcamp
 - [ ] [Hugging Face - Fine-tuning a model on a text classification task](https://huggingface.co/transformers/custom_datasets.html#fine-tuning-a-model-on-a-text-classification-task)
 - [ ] [Venelin Valkov - Fine-tuning Tiny LLM on Your Data | Sentiment Analysis with TinyLlama and LoRA on a Single GPU](https://www.youtube.com/watch?v=_KPEoCSKHcU)
 - [ ] [Venelin Valkov - Fine-Tuning Llama 3 on a Custom Dataset: Training LLM for a RAG Q&A Use Case on a Single GPU](https://www.youtube.com/watch?v=0XPZlR3_GgI)
+  - [ ] https://www.mlexpert.io/bootcamp/fine-tuning-llama-3-llm-for-rag
 - [ ] [Shaw Talebi - QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code)](https://www.youtube.com/watch?v=XpoKB3usmKc)
+- https://platform.openai.com/docs/guides/fine-tuning/preparing-your-dataset
+- https://hn.algolia.com/?q=fine+tuning
+
 ### Mathematics for AI
 
 - [ ] [metacodeM - Linear Algebra](https://www.youtube.com/playlist?list=PLeBDUHf7kK3jijoWOtjrJTQIvubf9v8nM)
