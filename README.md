@@ -1,6 +1,7 @@
 # Data Analysis, Data Science, Machine Learning
 
 - [Data Analysis, Data Science, Machine Learning](#data-analysis-data-science-machine-learning)
+  - [General videos](#general-videos)
   - [Data Analysis](#data-analysis)
     - [Data Analysis general (how to learn, advices etc.)](#data-analysis-general-how-to-learn-advices-etc)
     - [Data Analysis courses](#data-analysis-courses)
@@ -41,6 +42,10 @@
   - [YouTube channels](#youtube-channels)
   - [Other links and playlists](#other-links-and-playlists)
     - [Interesting videos involving AI](#interesting-videos-involving-ai)
+
+## General videos
+
+- [ ] [IBM Technology - AI, Machine Learning, Deep Learning and Generative AI Explained](https://www.youtube.com/watch?v=qYNweeDHiyU)
 
 ## Data Analysis
 
