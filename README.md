@@ -890,6 +890,14 @@
       - [ ] start with simpler challenges
       - [ ] eventually move to working on more complex projects (they also come with prize money; they require a lot of compute)
     - [ ] Reimplementing a paper and recreating the results
+- [ ] [Boris Meinardus - 7 Mistakes Beginner ML Students Make Every Year](https://www.youtube.com/watch?v=Oz7r89YDMis)
+- [ ] [Boris Meinardus - This Simple RESUME got me 5 Machine Learning Interviews](https://www.youtube.com/watch?v=FpW8aiJPvts)
+- [ ] [Boris Meinardus - What Is Self-Supervised Learning and Why Care?](https://www.youtube.com/watch?v=iGJ1XSkCyU0)
+- [ ] [Thu Vu data analytics - How I'd Learn AI (If I Had to Start Over)](https://www.youtube.com/watch?v=TR7AGmey1C8)
+- [ ] [Dave Ebbelaar - How I'd Learn AI in 2023 (if I could start over)](https://www.youtube.com/watch?v=h2FDq3agImI)
+- [ ] [Sahil & Sarra (former "The Power Couple") - How to learn AI and get RICH in the AI revolution](https://www.youtube.com/watch?v=mkRVHLQmsp4)
+- [ ] [LunarTech - Machine Learning Roadmap 2024 | How I'd Learn Machine Learning in 2024 (If I could start over)](https://www.youtube.com/watch?v=esGtjVV9gLI)
+- [ ] [Amazon Web Services - How I Started a Career in Machine Learning - No PHD Required](https://www.youtube.com/watch?v=cC8A5VmEVtg)
 - [ ] [Kylie Ying - How to learn Machine Learning (ML/AI Roadmap 2024)](https://www.youtube.com/watch?v=BLXZsBd1cDs)
 
 ### Machine learning projects
