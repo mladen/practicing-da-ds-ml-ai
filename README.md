@@ -2,6 +2,7 @@
 
 - [Data Analysis, Data Science, Machine Learning](#data-analysis-data-science-machine-learning)
   - [General videos](#general-videos)
+  - [General books](#general-books)
   - [Data Analysis](#data-analysis)
     - [Data Analysis general (how to learn, advices etc.)](#data-analysis-general-how-to-learn-advices-etc)
     - [Data Analysis courses](#data-analysis-courses)
@@ -46,6 +47,11 @@
 ## General videos
 
 - [ ] [IBM Technology - AI, Machine Learning, Deep Learning and Generative AI Explained](https://www.youtube.com/watch?v=qYNweeDHiyU)
+
+## General books
+
+- [ ] [Engineering with Utsav - Books Every Software Engineer Should Read in 2025](https://www.youtube.com/watch?v=Hc9HtESrvdM)
+- [ ] [PythonProgrammer - I've read 57 Books on AI and Data Science - these are the best (for 2025)](https://www.youtube.com/watch?v=rrkXuZfCwFA)
 
 ## Data Analysis
 
@@ -729,9 +735,12 @@
 
 ### Data Science mathematics
 
+- [Derek Banas - Probability for Data Science & Machine Learning](https://www.youtube.com/watch?v=sEte4hXEgJ8)
+- [Derek Banas - Statistics for Data Science & Machine Learning](https://www.youtube.com/watch?v=tcusIOfI_GM)
 - [Data Nash - How Much Math Is REALLY In Data Science | What Math Do You Need For Data Science](https://www.youtube.com/watch?v=Fzfxn8U8aMw)
-- [Data Nash - Every Data Scientist Should Read This Book](https://www.youtube.com/watch?v=ZbGbqUdjc28)
-- [metacodeM - ](https://www.youtube.com/playlist?list=PLeBDUHf7kK3i2zX5o_7NfkxLSb81lrpTr)
+- [x] [Data Nash - Every Data Scientist Should Read This Book](https://www.youtube.com/watch?v=ZbGbqUdjc28)
+  - [Brian Godsey - Think Like a Data Scientist: Tackle the data science process step-by-step](https://www.amazon.com/Think-Like-Scientist-step-step/dp/1633430278)  
+- [metacodeM - Statistics](https://www.youtube.com/playlist?list=PLeBDUHf7kK3i2zX5o_7NfkxLSb81lrpTr)
   - [ ] 1. Basic Statistics 1 by Data Scientist [2-hour Full Course] (1.6K views, 10 days ago, 2:12:09)
   - [ ] 2. Statistics for Data Science Course [Part 1: Categorical and Quantitative Data] (1.6K views, 4 weeks ago, 13:27)
   - [ ] 3. Statistics for Data Science Course [Part 2: Mean, Median, and Mode] (298 views, 3 weeks ago, 17:57)
@@ -760,6 +769,7 @@
 
 ### Machine learning general (how to learn, advices etc.)
 
+- [ ] [Boris Meinardus - How I'd learn ML in 2025 (if I could start over)](https://www.youtube.com/watch?v=_xIwjmCH6D4)
 - [x] [Aleksa Gordić - The AI Epiphany - How I Got a Job at DeepMind as a Research Engineer (without a Machine Learning Degree!)](https://www.youtube.com/watch?v=SgaN-4po_cA)
 - [x] [Aleksa Gordić - How to get started with Machine Learning](https://www.youtube.com/watch?v=7q_OJvQQ7vY)
   - Step 1: Learn to code in Python
@@ -1112,6 +1122,7 @@
 
 ### Artificial intelligence general (how to learn, advices etc.)
 
+- [ ] [freeCodeCamp.org (LunarTech) - AI Engineer Roadmap – How to Learn AI in 2025](https://www.youtube.com/watch?v=nYXVvK-Wmn0)
 - [ ] [David Bombal - You need to learn AI in 2024! (And here is your roadmap)](https://www.youtube.com/watch?v=x1TqLcz_ug0)
 - [ ] [Machine Learning Street Talk - Deep Learning is a strange beast.](https://www.youtube.com/watch?v=sJXn4Cl4oww)
 - [ ] [Jay Shah - Best resources to remain updated to Machine Learning Research | Siddha Ganju, @NVIDIA](https://www.youtube.com/watch?v=qBYsrfKq4sU)
@@ -1247,6 +1258,8 @@
 - [IBE Munich - Traditional Statistics vs Machine Learning](https://www.youtube.com/watch?v=ObbTLep4Hxo)
 - [Jay Shah - Algorithmic Reasoning, Graph Neural Nets, AGI and Tips to researchers | Petar Veličković](https://www.youtube.com/watch?v=oNEE7jKYjc4)
 - [Jay Shah - Siddha Ganju, Self-Driving Architect @NVIDIA | @ForbesBreakingNews](https://www.youtube.com/watch?v=UO0RLmQTUzc)
+- [SparX by Mukesh Bansal - Why Machines Learn: The Elegant Math Behind AI with Anil Ananthaswamy | SparX by Mukesh Bansal](https://www.youtube.com/watch?v=soQRRFwrfpQ)
+- [Breaking Math - Why Machines Learn: The Math Behind AI](https://www.youtube.com/watch?v=dD5cRtmUo3U)
 
 ## YouTube channels
 
