@@ -6,6 +6,7 @@
   - [Data Analysis](#data-analysis)
     - [Data Analysis general (how to learn, advices etc.)](#data-analysis-general-how-to-learn-advices-etc)
     - [Data Analysis courses](#data-analysis-courses)
+      - [Alex The Analyst (playlist) - Data Analyst Bootcamp - course + notes](#alex-the-analyst-playlist---data-analyst-bootcamp---course--notes)
     - [Data Analysis projects](#data-analysis-projects)
     - [Data Analysis books](#data-analysis-books)
     - [Data Analysts - what do they do?](#data-analysts---what-do-they-do)
@@ -80,7 +81,22 @@
 
 ### Data Analysis courses
 
-- [ ] [Alex The Analyst (playlist) - Data Analyst Bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
+- [ ] [Shashank Kalanithi - Day in the Life of a Data Analyst (playlist)](https://www.youtube.com/playlist?list=PL-u09-6gP5ZNXNcED3EOQj0mMNIByVkZM)
+
+  - [ ] Data Analyst - Python PCA Application w/ Streamlit (29K views, 2 years ago, 1:11:54)
+  - [ ] Day in the Life of a Data Analyst - SurveyMonkey Data Transformation (3M views, 2 years ago, 1:17:14)
+  - [ ] Day in the Life of a Data Analyst - Bing Maps API (20K views, 2 years ago, 29:00)
+  - [ ] Day in the Life of a Data Analyst - SurveyMonkey Data Transformation (Using R) (18K views, 2 years ago, 41:55)
+  - [ ] Data Analyst - PyCaret to Enhance Your Machine Learning (4K views, 2 years ago, 31:04)
+  - [ ] Day in the Life of a Data Analyst - Google Data Studio (28K views, 2 years ago, 31:33)
+  - [ ] Making Money (as a data analyst) - Webscraping with ScraperAPI (20K views, 2 years ago, 57:13)
+  - [ ] Data Cleaning CHALLENGE (can you think of a better solution?) (131K views, 2 years ago, 22:41)
+
+- [Shashank Kalanithi - A Data Crash Course | 100+ Key Data Concepts](https://www.youtube.com/watch?v=56INeYrTiyE)
+
+#### Alex The Analyst (playlist) - Data Analyst Bootcamp - course + notes
+
+  > Link to a course on [YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
 
   - [x] 1. FREE Data Analyst Bootcamp!! (497K views, 6 months ago, 6:52)
   - [x] 2. How to Become a Data Analyst in 2023 (Completely FREE!) (638K views, 7 months ago, 13:59)
@@ -591,18 +607,6 @@
   - [ ] 69. Top 3 Tips on Using LinkedIn to Land a Job (198K views, 2 years ago, 6:50)
   - [ ] 70. How To Download Your Data Analyst Bootcamp Certification (Congrats!!) (25K views, 7 months ago, 1:41)
 
-- [ ] [Shashank Kalanithi - Day in the Life of a Data Analyst (playlist)](https://www.youtube.com/playlist?list=PL-u09-6gP5ZNXNcED3EOQj0mMNIByVkZM)
-
-  - [ ] Data Analyst - Python PCA Application w/ Streamlit (29K views, 2 years ago, 1:11:54)
-  - [ ] Day in the Life of a Data Analyst - SurveyMonkey Data Transformation (3M views, 2 years ago, 1:17:14)
-  - [ ] Day in the Life of a Data Analyst - Bing Maps API (20K views, 2 years ago, 29:00)
-  - [ ] Day in the Life of a Data Analyst - SurveyMonkey Data Transformation (Using R) (18K views, 2 years ago, 41:55)
-  - [ ] Data Analyst - PyCaret to Enhance Your Machine Learning (4K views, 2 years ago, 31:04)
-  - [ ] Day in the Life of a Data Analyst - Google Data Studio (28K views, 2 years ago, 31:33)
-  - [ ] Making Money (as a data analyst) - Webscraping with ScraperAPI (20K views, 2 years ago, 57:13)
-  - [ ] Data Cleaning CHALLENGE (can you think of a better solution?) (131K views, 2 years ago, 22:41)
-
-- [Shashank Kalanithi - A Data Crash Course | 100+ Key Data Concepts](https://www.youtube.com/watch?v=56INeYrTiyE)
 
 ### Data Analysis projects
 
