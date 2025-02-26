@@ -6,7 +6,7 @@
   - [Data Analysis](#data-analysis)
     - [Data Analysis general (how to learn, advices etc.)](#data-analysis-general-how-to-learn-advices-etc)
     - [Data Analysis courses](#data-analysis-courses)
-      - [Alex The Analyst (playlist) - Data Analyst Bootcamp - course + notes](#alex-the-analyst-playlist---data-analyst-bootcamp---course--notes)
+      - [Alex The Analyst (playlist) - Data Analyst Bootcamp - course + my notes](#alex-the-analyst-playlist---data-analyst-bootcamp---course--my-notes)
     - [Data Analysis projects](#data-analysis-projects)
     - [Data Analysis books](#data-analysis-books)
     - [Data Analysts - what do they do?](#data-analysts---what-do-they-do)
@@ -36,6 +36,7 @@
     - [Mathematics for AI](#mathematics-for-ai)
     - [Artificial intelligence articles](#artificial-intelligence-articles)
     - [Artificial intelligence books](#artificial-intelligence-books)
+  - [Mathematics courses](#mathematics-courses)
   - [Databases](#databases)
     - [Interactive SQL tutorials](#interactive-sql-tutorials)
   - [Platforms for learning](#platforms-for-learning)
@@ -94,7 +95,7 @@
 
 - [Shashank Kalanithi - A Data Crash Course | 100+ Key Data Concepts](https://www.youtube.com/watch?v=56INeYrTiyE)
 
-#### Alex The Analyst (playlist) - Data Analyst Bootcamp - course + notes
+#### Alex The Analyst (playlist) - Data Analyst Bootcamp - course + my notes
 
   > Link to a course on [YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
 
@@ -1198,6 +1199,23 @@
 - Inside Deep Learning: Math, Algorithms, Models - Edward Raff (2022, Annotated edition, 600 pages, Manning, 4.7 stars from 24 reviews on Amazon)
 - Deep Learning with Python, Second Edition - François Chollet (2021, 2nd edition, 504 pages, Manning, 4.7 stars from 345 reviews on Amazon)
 - Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools - Eli Stevens, Luca Antiga, Thomas Viehmann (2020, 1st edition, 520 pages, Manning, 4.4 stars from 119 reviews on Amazon)
+## Mathematics courses
+
+- [ ] [Khan Academy - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+  - Lesson 1: Analyzing one categorical variable
+    - Median - is the middle value in a set of data. Example, 100 is median in this array of data: 75, 80, **100** (this is median), 100, 100.
+    - Midrange - is the mean of the highest and lowest values in a set of data.
+      - Example: for the array of data 75, 80, 100, 100, 100 the midrange is (75+100)/2=87.5
+    - Mean - is the average value in a set of data. Example, 100 is mean in this array of data
+    - Average - is the average value in a set of data.
+      - NOTE: If someone says "average" without giving more information they're probably thinking about the arithmetic mean.
+      - Example: for the array of data 75, 80, 100, 100, 100 the average is (75+80+100+100+100)/5=91
+    - Mode - is the most commommon score. In 75, 80, 100, 100, 100, the mode is 100 because it appears 3 times.
+    - Range - is the difference between the highest and lowest values in a set of data. Example: for the array of data 75, 80, 100, 100, 100 the range is 100-75=25
+  - Lesson 2
+    - Dot plots - are used to show individual data points (bad if we have a lot of data).
+    - Bar graphs - are used to show groups of data (good if we have a lot of data).
+    - Histograms - displays ranges of data (good if we have a lot of data). Example: 0-10, 11-20, 21-30, etc.
 
 ## Databases
 
