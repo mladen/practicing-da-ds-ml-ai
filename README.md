@@ -1202,17 +1202,17 @@
 ## Mathematics courses
 
 - [ ] [Khan Academy - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
-  - Lesson 1: Analyzing one categorical variable
-    - Median - is the middle value in a set of data. Example, 100 is median in this array of data: 75, 80, **100** (this is median), 100, 100.
-    - Midrange - is the mean of the highest and lowest values in a set of data.
-      - Example: for the array of data 75, 80, 100, 100, 100 the midrange is (75+100)/2=87.5
-    - Mean - is the average value in a set of data. Example, 100 is mean in this array of data
-    - Average - is the average value in a set of data.
-      - NOTE: If someone says "average" without giving more information they're probably thinking about the arithmetic mean.
-      - Example: for the array of data 75, 80, 100, 100, 100 the average is (75+80+100+100+100)/5=91
-    - Mode - is the most commommon score. In 75, 80, 100, 100, 100, the mode is 100 because it appears 3 times.
-    - Range - is the difference between the highest and lowest values in a set of data. Example: for the array of data 75, 80, 100, 100, 100 the range is 100-75=25
-  - Lesson 2
+  - [ ] Unit 1: Analyzing categorical data
+    - [x] Lesson 1: Analyzing one categorical variable
+      - Median - is the middle value in a set of data. Example, 100 is median in this array of data: 75, 80, **100** (this is median), 100, 100.
+      - Midrange - is the mean of the highest and lowest values in a set of data.
+        - Example: for the array of data 75, 80, 100, 100, 100 the midrange is (75+100)/2=87.5
+      - Mean - is the average value in a set of data. Example, 100 is mean in this array of data
+      - Average - is the average value in a set of data.
+        - NOTE: If someone says "average" without giving more information they're probably thinking about the arithmetic mean.
+        - Example: for the array of data 75, 80, 100, 100, 100 the average is (75+80+100+100+100)/5=91
+      - Mode - is the most commommon score. In 75, 80, 100, 100, 100, the mode is 100 because it appears 3 times.
+      - Range - is the difference between the highest and lowest values in a set of data. Example: for the array of data 75, 80, 100, 100, 100 the range is 100-75=25
     - Dot plots - are used to show individual data points (bad if we have a lot of data).
     - Bar graphs - are used to show groups of data (good if we have a lot of data).
     - Histograms - displays ranges of data (good if we have a lot of data). Example: 0-10, 11-20, 21-30, etc.
