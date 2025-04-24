@@ -36,7 +36,7 @@
     - [Mathematics for AI](#mathematics-for-ai)
     - [Artificial intelligence articles](#artificial-intelligence-articles)
     - [Artificial intelligence books](#artificial-intelligence-books)
-  - [Mathematics courses](#mathematics-courses)
+  - [Mathematics courses (with my notes)](#mathematics-courses-with-my-notes)
   - [Databases](#databases)
     - [Interactive SQL tutorials](#interactive-sql-tutorials)
   - [Platforms for learning](#platforms-for-learning)
@@ -1199,7 +1199,8 @@
 - Inside Deep Learning: Math, Algorithms, Models - Edward Raff (2022, Annotated edition, 600 pages, Manning, 4.7 stars from 24 reviews on Amazon)
 - Deep Learning with Python, Second Edition - François Chollet (2021, 2nd edition, 504 pages, Manning, 4.7 stars from 345 reviews on Amazon)
 - Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools - Eli Stevens, Luca Antiga, Thomas Viehmann (2020, 1st edition, 520 pages, Manning, 4.4 stars from 119 reviews on Amazon)
-## Mathematics courses
+
+## Mathematics courses (with my notes)
 
 - [ ] [Khan Academy - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
   - [ ] Unit 1: Analyzing categorical data
@@ -1213,6 +1214,19 @@
         - Example: for the array of data 75, 80, 100, 100, 100 the average is (75+80+100+100+100)/5=91
       - Mode - is the most commommon score. In 75, 80, 100, 100, 100, the mode is 100 because it appears 3 times.
       - Range - is the difference between the highest and lowest values in a set of data. Example: for the array of data 75, 80, 100, 100, 100 the range is 100-75=25
+    - Lesson 2: Two-way tables
+      - Example of a table with two variables
+        | Preference    | Male | Female |
+        | ------------- | ---- | ------ |
+        | Prefers dogs  | 36   | 22     |
+        | Prefers cats  | 8    | 26     |
+        | No preference | 2    | 6      |
+        
+        Notice that there are two variables - **gender** and **preference** - this is where the **two** in **two**-way frequency table comes from.\
+        The cells tell us the number (or frequency) of students. For example, the 36 is in the **male column** and the **prefers dogs row**. This tells us that there are 36 male students who prefer dogs.
+
+
+  - [ ] Unit 2: Displaying and comparing quantitative data
     - Dot plots - are used to show individual data points (bad if we have a lot of data).
     - Bar graphs - are used to show groups of data (good if we have a lot of data).
     - Histograms - displays ranges of data (good if we have a lot of data). Example: 0-10, 11-20, 21-30, etc.
