@@ -1298,6 +1298,7 @@ We’ll also offer comprehensive courses designed to provide you with in-depth l
 - [Machine Learning Street Talk](http://www.youtube.com/@MachineLearningStreetTalk)
 - [DeepFindr](http://www.youtube.com/@DeepFindr) - Machine Learning / Data Science topics
 - [Make Data Useful](http://www.youtube.com/@MakeDataUseful) - Data science and analytics channel with a nice mix of Python tutorials and analysis.
+- [codebasics](https://www.youtube.com/@codebasics) - Data Analytics, Data Science and Machine Learning tutorials
 
 ## Other links and playlists
 
